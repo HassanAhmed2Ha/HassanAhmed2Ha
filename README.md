@@ -1,4 +1,5 @@
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0EA5E9,70:7C3AED,100:F59E0B&height=220&section=header&text=Hassan%20Ahmed&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Computational%20Biology%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full-Stack%20AI&descSize=16&descColor=0EA5E9&descAlignY=54" width="100%" alt="header"/>
 
   <br/><br/>
@@ -18,6 +19,7 @@
   <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=HassanAhmed2Ha&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="views"/>
+
 </div>
 
 <br/>
@@ -175,9 +177,7 @@ A free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit 
 
   <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity" />
 
-  <br/><br/>
-
-  </div>
+</div>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
