@@ -1,3 +1,7 @@
+<!-- ⚠️ NOTE: VS Code's built-in markdown preview blocks shields.io badges -->
+<!-- due to local Content Security Policy. All badges render perfectly on GitHub. -->
+<!-- To preview locally, use "Markdown Preview Enhanced" extension or push to GitHub. -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0EA5E9,70:7C3AED,100:F59E0B&height=220&section=header&text=Hassan%20Ahmed&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Computational%20Biology%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full-Stack%20AI&descSize=16&descColor=0EA5E9&descAlignY=54" width="100%" alt="header"/>
 
 <div align="center">
@@ -261,7 +265,7 @@ A free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HassanAhmed2Ha&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HassanAhmed2Ha&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 <br/><br/>
 
@@ -278,11 +282,16 @@ A free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit 
 
 <br/><br/>
 
+<!-- 🐍 CONTRIBUTION SNAKE — Uncomment after running the snake GitHub Action -->
+<!-- To activate: Go to Actions tab → "Generate Snake Animation" → Run workflow -->
+<!-- After the action runs, remove these comment markers to show the snake: -->
+<!--
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake.svg"/>
 <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake.svg" width="100%"/>
 </picture>
+-->
 
 </div>
 
