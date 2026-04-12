@@ -1,111 +1,151 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!-- DYNAMIC HEADER BANNER                                        -->
+<!-- ANIMATED NEON HEADER                                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0EA5E9,100:7C3AED&height=180&section=header&text=Hassan%20Ahmed&fontSize=36&fontColor=C9D1D9&animation=fadeIn&fontAlignY=32&desc=Bioinformatics%20%C3%97%20Data%20Science%20%C3%97%20Computational%20Biology&descSize=16&descColor=0EA5E9&descAlignY=52" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0EA5E9,60:7C3AED,100:BC13FE&height=200&section=header&text=Hassan%20Ahmed&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=Bioinformatics%20%C3%97%20Data%20Science%20%C3%97%20Computational%20Biology&descSize=18&descColor=00FFFF&descAlignY=52&stroke=00FFFF&strokeWidth=1" width="100%" alt="header"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=650&height=40&lines=First-Year+Researcher+%7C+Faculty+of+Agriculture;Building+Explainable+AI+for+Public+Health;From+Protein+Physics+to+Knowledge+Graphs" alt="Typing SVG" /></a>
+<!-- Bio-Tech DNA animated GIF for immediate motion -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="animated divider"/>
+  
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9A%A1+First-Year+Researcher+%7C+Faculty+of+Agriculture;%F0%9F%A7%AC+Building+Explainable+AI+for+Public+Health;%F0%9F%94%AC+From+Protein+Physics+to+Knowledge+Graphs;%F0%9F%87%AF%F0%9F%87%B5+GCI+World+2026+%7C+Matsuo+Lab%2C+UTokyo" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<a href="https://gci.t.u-tokyo.ac.jp/"><img src="https://img.shields.io/badge/GCI_World_2026-Matsuo_Lab_|_UTokyo-0D1117?style=for-the-badge&logoColor=DC143C&labelColor=0D1117" alt="GCI"/></a>
-<a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassan--ahmed-0D1117?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9&labelColor=0D1117" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/hassan-ahmed2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39&labelColor=0D1117" alt="ORCID"/></a>
-<a href="mailto:hassanahmed07.e9@gmail.com"><img src="https://img.shields.io/badge/Email-hassanahmed07.e9-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED&labelColor=0D1117" alt="Email"/></a>
+<!-- ── HERO BADGES — Neon glow colors ── -->
+<a href="https://gci.t.u-tokyo.ac.jp/"><img src="https://img.shields.io/badge/🇯🇵_GCI_World_2026-Matsuo_Lab_|_UTokyo-BC13FE?style=for-the-badge&labelColor=1a1a2e" alt="GCI"/></a>
+&nbsp;
+<a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-hassan--ahmed-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=00FFFF&labelColor=1a1a2e" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hassan-ahmed2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=1a1a2e" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-39FF14?style=for-the-badge&logo=orcid&logoColor=39FF14&labelColor=1a1a2e" alt="ORCID"/></a>
+&nbsp;
+<a href="mailto:hassanahmed07.e9@gmail.com"><img src="https://img.shields.io/badge/✉_Email-hassanahmed07.e9-F59E0B?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=1a1a2e" alt="Email"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HassanAhmed2Ha&style=flat-square&color=0EA5E9&label=Profile+Views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=HassanAhmed2Ha&style=for-the-badge&color=BC13FE&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+<br/>
 
-## `> whoami`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-First-year undergraduate at the **Faculty of Agriculture** (Alexandria, Egypt), building full-stack AI systems and computational biology pipelines. I work at the intersection of **bioinformatics**, **data science**, and **public health** — applying data-driven approaches to problems that matter.
+<br/>
 
-**Accepted into [GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo Laboratory, The University of Tokyo** — a globally competitive deep learning research program.
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> `> whoami`
 
-> *I'm a student who ships real systems, writes research preprints, and learns in public.*
+<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+> 🧬 First-year undergraduate at the **Faculty of Agriculture** (Alexandria, Egypt), building full-stack AI systems and computational biology pipelines. I work at the intersection of **bioinformatics**, **data science**, and **public health** — applying data-driven approaches to problems that matter.
+>
+> 🇯🇵 **Accepted into [GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo Laboratory, The University of Tokyo** — a globally competitive deep learning research program.
+>
+> ✨ *I'm a student who ships real systems, writes research preprints, and learns in public.*
 
-## `> skills`
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> `> skills`
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- Every badge below is verified from: requirements.txt,         -->
-<!-- package.json, Python imports, or portfolio data.ts             -->
+<!-- Every badge verified from: requirements.txt, package.json,    -->
+<!-- Python imports, or portfolio data.ts                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### &nbsp;&nbsp;⚡ Languages
+<br/>
 
-&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=0EA5E9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=0EA5E9)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0EA5E9)
-![R](https://img.shields.io/badge/R_(Basics)-0D1117?style=flat-square&logo=r&logoColor=0EA5E9)
+> ### &nbsp; ⚡ Languages
+>
+> &nbsp;![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=000000&labelColor=1a1a2e)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=1a1a2e)
+> ![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=1a1a2e)
+> ![R](https://img.shields.io/badge/R_(Basics)-39FF14?style=for-the-badge&logo=r&logoColor=ffffff&labelColor=1a1a2e)
+>
+> <sub>Sources: API.py, pdb_prep.py, data.ts, tsconfig.json</sub>
 
-<sub>Sources: API.py, pdb_prep.py, data.ts, tsconfig.json, portfolio data.ts</sub>
+<br/>
 
 </td>
 <td width="50%" valign="top">
 
-### &nbsp;&nbsp;🧠 Machine Learning & Data
+<br/>
 
-&nbsp;&nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=7C3AED)
-![Keras](https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=7C3AED)
-![SHAP](https://img.shields.io/badge/SHAP-0D1117?style=flat-square&logo=python&logoColor=7C3AED)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=7C3AED)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=7C3AED)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=7C3AED)
+> ### &nbsp; 🧠 Machine Learning & Data
+>
+> &nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-BC13FE?style=for-the-badge&logo=tensorflow&logoColor=ffffff&labelColor=1a1a2e)
+> ![Keras](https://img.shields.io/badge/Keras-FF006E?style=for-the-badge&logo=keras&logoColor=ffffff&labelColor=1a1a2e)
+> ![SHAP](https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=1a1a2e)
+> ![scikit-learn](https://img.shields.io/badge/sklearn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=000000&labelColor=1a1a2e)
+> ![NumPy](https://img.shields.io/badge/NumPy-00FFFF?style=for-the-badge&logo=numpy&logoColor=000000&labelColor=1a1a2e)
+> ![Pandas](https://img.shields.io/badge/Pandas-39FF14?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=1a1a2e)
+>
+> <sub>Sources: requirements.txt, API.py imports, portfolio data.ts</sub>
 
-<sub>Sources: requirements.txt, API.py imports, portfolio data.ts</sub>
+<br/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### &nbsp;&nbsp;🧬 Bioinformatics & Physics
+<br/>
 
-&nbsp;&nbsp;![OpenMM](https://img.shields.io/badge/OpenMM-0D1117?style=flat-square&logo=moleculer&logoColor=0EA5E9)
-![PDBFixer](https://img.shields.io/badge/PDBFixer-0D1117?style=flat-square&logo=moleculer&logoColor=0EA5E9)
-![MDTraj](https://img.shields.io/badge/MDTraj-0D1117?style=flat-square&logo=python&logoColor=0EA5E9)
-![Biopython](https://img.shields.io/badge/Biopython-0D1117?style=flat-square&logo=python&logoColor=0EA5E9)
-![AMBER14](https://img.shields.io/badge/AMBER14_FF-0D1117?style=flat-square&logo=moleculer&logoColor=0EA5E9)
+> ### &nbsp; 🧬 Bioinformatics & Physics
+>
+> &nbsp;![OpenMM](https://img.shields.io/badge/OpenMM-00FFFF?style=for-the-badge&logo=moleculer&logoColor=000000&labelColor=1a1a2e)
+> ![PDBFixer](https://img.shields.io/badge/PDBFixer-0EA5E9?style=for-the-badge&logo=moleculer&logoColor=ffffff&labelColor=1a1a2e)
+> ![MDTraj](https://img.shields.io/badge/MDTraj-39FF14?style=for-the-badge&logo=python&logoColor=000000&labelColor=1a1a2e)
+> ![Biopython](https://img.shields.io/badge/Biopython-BC13FE?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=1a1a2e)
+> ![AMBER14](https://img.shields.io/badge/AMBER14_FF-F59E0B?style=for-the-badge&logo=moleculer&logoColor=000000&labelColor=1a1a2e)
+>
+> <sub>Sources: minimization.py, pdb_prep.py, metrics.py, modal_app.py</sub>
 
-<sub>Sources: minimization.py, pdb_prep.py, metrics.py, modal_app.py</sub>
+<br/>
 
 </td>
 <td width="50%" valign="top">
 
-### &nbsp;&nbsp;🏗️ Web, Infra & DevOps
+<br/>
 
-&nbsp;&nbsp;![React](https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=7C3AED)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=7C3AED)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=7C3AED)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=7C3AED)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=7C3AED)
-![Modal](https://img.shields.io/badge/Modal-0D1117?style=flat-square&logo=serverless&logoColor=7C3AED)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=7C3AED)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=7C3AED)
+> ### &nbsp; 🏗️ Web, Infra & DevOps
+>
+> &nbsp;![React 18](https://img.shields.io/badge/React_18-00FFFF?style=for-the-badge&logo=react&logoColor=000000&labelColor=1a1a2e)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-39FF14?style=for-the-badge&logo=fastapi&logoColor=000000&labelColor=1a1a2e)
+> ![Vite](https://img.shields.io/badge/Vite-BC13FE?style=for-the-badge&logo=vite&logoColor=ffffff&labelColor=1a1a2e)
+> ![Tailwind](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=ffffff&labelColor=1a1a2e)
+> ![Docker](https://img.shields.io/badge/Docker-F59E0B?style=for-the-badge&logo=docker&logoColor=000000&labelColor=1a1a2e)
+> ![Modal](https://img.shields.io/badge/Modal-7C3AED?style=for-the-badge&logo=serverless&logoColor=ffffff&labelColor=1a1a2e)
+> ![Vercel](https://img.shields.io/badge/Vercel-00FFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=1a1a2e)
+> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF006E?style=for-the-badge&logo=huggingface&logoColor=ffffff&labelColor=1a1a2e)
+>
+> <sub>Sources: package.json (x3), Dockerfile, modal_app.py, vercel.json</sub>
 
-<sub>Sources: package.json (×3), Dockerfile, modal_app.py, vercel.json</sub>
+<br/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+<br/>
 
-## `> projects`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f12c901f2.gif" width="30" /> `> projects`
 
 <table width="100%">
 <tr>
@@ -113,20 +153,24 @@ First-year undergraduate at the **Faculty of Agriculture** (Alexandria, Egypt), 
 
 <div align="center">
 
+<br/>
+
 ### 🧬 [BioPhys Refinement Lab](https://github.com/HassanAhmed2Ha/biophys-refinement-lab)
 
-*Physics-Based Protein Structure Refinement*
+<img src="https://img.shields.io/badge/⚛️_Physics--Based_Protein_Structure_Refinement-000000?style=for-the-badge" alt="subtitle"/>
 
 </div>
 
 <br/>
 
-**What it does →** Takes AI-predicted or experimental protein structures, runs them through a **GPU-accelerated molecular dynamics** pipeline (OpenMM + AMBER14 force field), and produces **thermodynamically stable conformations** for downstream research.
+> **What it does →** Takes AI-predicted or experimental protein structures, runs them through a **GPU-accelerated molecular dynamics** pipeline (OpenMM + AMBER14 force field), and produces **thermodynamically stable conformations** for downstream research.
+>
+> **Why it matters →** AI models like ESMFold produce structures with steric clashes and unphysical energies. This platform makes them usable.
 
-**Why it matters →** AI models like ESMFold produce structures with steric clashes and unphysical energies. This platform makes them usable.
+<br/>
 
 <details>
-<summary>&nbsp;🔍 <b>Technical Details (from actual code)</b></summary>
+<summary>&nbsp;🔮 <b>Technical Details (from actual code)</b></summary>
 <br/>
 
 **Backend** — `modal_app.py`:
@@ -155,35 +199,44 @@ First-year undergraduate at the **Faculty of Agriculture** (Alexandria, Egypt), 
 
 <div align="center">
 
-![OpenMM](https://img.shields.io/badge/OpenMM-0D1117?style=flat-square&logo=moleculer&logoColor=0EA5E9)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=0EA5E9)
-![Modal](https://img.shields.io/badge/Modal_A10G-0D1117?style=flat-square&logo=serverless&logoColor=0EA5E9)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=0EA5E9)
+![OpenMM](https://img.shields.io/badge/OpenMM-00FFFF?style=for-the-badge&logo=moleculer&logoColor=000000&labelColor=1a1a2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-39FF14?style=for-the-badge&logo=fastapi&logoColor=000000&labelColor=1a1a2e)
+![Modal A10G](https://img.shields.io/badge/Modal_A10G-BC13FE?style=for-the-badge&logo=serverless&logoColor=ffffff&labelColor=1a1a2e)
+![React](https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=000000&labelColor=1a1a2e)
 
-[![Live Platform](https://img.shields.io/badge/LIVE_PLATFORM-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://biophys-refinement-4gj5w26hx-hassanahmed2has-projects.vercel.app)
-[![Eng. Docs](https://img.shields.io/badge/ENGINEERING_DOCS-7C3AED?style=for-the-badge&labelColor=0D1117)](https://github.com/HassanAhmed2Ha/biophys-refinement-lab/blob/main/docs/ENGINEERING_JOURNEY.md)
+<br/>
+
+[![Live Platform](https://img.shields.io/badge/▶_LIVE_PLATFORM-00FFFF?style=for-the-badge&logoColor=000000&labelColor=000000)](https://biophys-refinement-4gj5w26hx-hassanahmed2has-projects.vercel.app)
+&nbsp;
+[![Eng. Docs](https://img.shields.io/badge/📄_ENGINEERING_DOCS-BC13FE?style=for-the-badge&logoColor=ffffff&labelColor=000000)](https://github.com/HassanAhmed2Ha/biophys-refinement-lab/blob/main/docs/ENGINEERING_JOURNEY.md)
 
 </div>
+
+<br/>
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
+<br/>
+
 ### 🧠 [NeuroScan AI](https://github.com/HassanAhmed2Ha/NeuroScan-AI)
 
-*Explainable Breast Cancer Diagnosis*
+<img src="https://img.shields.io/badge/🔬_Explainable_Breast_Cancer_Diagnosis-000000?style=for-the-badge" alt="subtitle"/>
 
 </div>
 
 <br/>
 
-**What it does →** Accepts 5 clinical tumor features, returns a **malignant/benign prediction** with confidence score, and generates **SHAP explanations** showing which features drove the decision.
+> **What it does →** Accepts 5 clinical tumor features, returns a **malignant/benign prediction** with confidence score, and generates **SHAP explanations** showing which features drove the decision.
+>
+> **Why it matters →** Most ML projects stop at a notebook. This is a **full deployed system** — model → API → explainability → frontend.
 
-**Why it matters →** Most ML projects stop at a notebook. This is a **full deployed system** — model → API → explainability → frontend.
+<br/>
 
 <details>
-<summary>&nbsp;🔍 <b>Technical Details (from actual code)</b></summary>
+<summary>&nbsp;🔮 <b>Technical Details (from actual code)</b></summary>
 <br/>
 
 **Model** — `API.py`:
@@ -208,15 +261,20 @@ First-year undergraduate at the **Faculty of Agriculture** (Alexandria, Egypt), 
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=7C3AED)
-![SHAP](https://img.shields.io/badge/SHAP-0D1117?style=flat-square&logo=python&logoColor=7C3AED)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=7C3AED)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=7C3AED)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-BC13FE?style=for-the-badge&logo=tensorflow&logoColor=ffffff&labelColor=1a1a2e)
+![SHAP](https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=1a1a2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-39FF14?style=for-the-badge&logo=fastapi&logoColor=000000&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-F59E0B?style=for-the-badge&logo=docker&logoColor=000000&labelColor=1a1a2e)
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://tumor-diagnosis-frontend.vercel.app)
-[![API](https://img.shields.io/badge/API_BACKEND-7C3AED?style=for-the-badge&labelColor=0D1117)](https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend)
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-00FFFF?style=for-the-badge&logoColor=000000&labelColor=000000)](https://tumor-diagnosis-frontend.vercel.app)
+&nbsp;
+[![API Backend](https://img.shields.io/badge/🔗_API_BACKEND-BC13FE?style=for-the-badge&logoColor=ffffff&labelColor=000000)](https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend)
 
 </div>
+
+<br/>
 
 </td>
 </tr>
@@ -225,14 +283,21 @@ First-year undergraduate at the **Faculty of Agriculture** (Alexandria, Egypt), 
 
 <div align="center">
 
+<br/>
+
 ### 🌐 [Open-Source Portfolio Template](https://github.com/HassanAhmed2Ha/Hassan-Ahmed-Portfolio)
 
-*Free, bilingual (EN/AR) portfolio for students and early researchers — because digital empowerment is a right, not a luxury.*
+> *Free, bilingual (EN/AR) portfolio for students and early researchers — because digital empowerment is a right, not a luxury.*
+>
+> React 18 + TypeScript + Vite + EmailJS · Fork it, edit `data.ts`, deploy in minutes.
 
-React 18 + TypeScript + Vite + EmailJS · Fork it, edit `data.ts`, deploy in minutes.
+<br/>
 
-[![Live Site](https://img.shields.io/badge/LIVE_SITE-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://hassan-ahmed-portfolio.vercel.app)
-[![Source](https://img.shields.io/badge/SOURCE_CODE-7C3AED?style=for-the-badge&labelColor=0D1117)](https://github.com/HassanAhmed2Ha/Hassan-Ahmed-Portfolio)
+[![Live Site](https://img.shields.io/badge/▶_LIVE_SITE-00FFFF?style=for-the-badge&labelColor=000000)](https://hassan-ahmed-portfolio.vercel.app)
+&nbsp;
+[![Source Code](https://img.shields.io/badge/📦_SOURCE_CODE-BC13FE?style=for-the-badge&labelColor=000000)](https://github.com/HassanAhmed2Ha/Hassan-Ahmed-Portfolio)
+
+<br/>
 
 </div>
 
@@ -240,14 +305,18 @@ React 18 + TypeScript + Vite + EmailJS · Fork it, edit `data.ts`, deploy in min
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+<br/>
 
-## `> workflow`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> `> workflow`
 
 <div align="center">
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#7C3AED', 'primaryTextColor': '#C9D1D9', 'primaryBorderColor': '#0EA5E9', 'lineColor': '#0EA5E9', 'secondaryColor': '#0D1117', 'tertiaryColor': '#161B22', 'background': '#0D1117', 'mainBkg': '#161B22', 'nodeBorder': '#0EA5E9', 'clusterBkg': '#161B22', 'clusterBorder': '#7C3AED'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#BC13FE', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#00FFFF', 'lineColor': '#00FFFF', 'secondaryColor': '#000000', 'tertiaryColor': '#0a0a0a', 'background': '#000000', 'mainBkg': '#0a0a0a', 'nodeBorder': '#00FFFF', 'nodeTextColor': '#FFFFFF', 'clusterBkg': '#0a0a1a', 'clusterBorder': '#BC13FE', 'edgeLabelBackground': '#000000', 'titleColor': '#00FFFF'}}}%%
 flowchart LR
     subgraph BIO["🌾 Biological Domain"]
         A["Agricultural Sciences"]
@@ -274,33 +343,48 @@ flowchart LR
     H --> F
     I --> F
 
-    style BIO fill:#161B22,stroke:#0EA5E9,stroke-width:2px
-    style COMPUTE fill:#161B22,stroke:#7C3AED,stroke-width:2px
-    style DELIVER fill:#161B22,stroke:#0EA5E9,stroke-width:2px
+    style BIO fill:#0a0a1a,stroke:#00FFFF,stroke-width:2px,color:#FFFFFF
+    style COMPUTE fill:#0a0a1a,stroke:#BC13FE,stroke-width:2px,color:#FFFFFF
+    style DELIVER fill:#0a0a1a,stroke:#00FFFF,stroke-width:2px,color:#FFFFFF
+    style A fill:#1a1a2e,stroke:#00FFFF,color:#FFFFFF
+    style B fill:#1a1a2e,stroke:#00FFFF,color:#FFFFFF
+    style C fill:#1a1a2e,stroke:#BC13FE,color:#FFFFFF
+    style D fill:#1a1a2e,stroke:#BC13FE,color:#FFFFFF
+    style E fill:#1a1a2e,stroke:#BC13FE,color:#FFFFFF
+    style F fill:#1a1a2e,stroke:#BC13FE,color:#FFFFFF
+    style G fill:#1a1a2e,stroke:#00FFFF,color:#FFFFFF
+    style H fill:#1a1a2e,stroke:#00FFFF,color:#FFFFFF
+    style I fill:#1a1a2e,stroke:#00FFFF,color:#FFFFFF
 ```
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+<br/>
 
-## `> github_analytics`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> `> github_analytics`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HassanAhmed2Ha&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<!-- Trophies with neon theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=HassanAhmed2Ha&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 <br/><br/>
 
+<!-- Stats + Languages side by side -->
 <table width="100%">
 <tr>
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=7C3AED&text_color=C9D1D9&ring_color=0EA5E9&include_all_commits=true&count_private=true" alt="Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=BC13FE&text_color=C9D1D9&ring_color=00FFFF&include_all_commits=true&count_private=true&border_radius=10" alt="Stats" />
 
 </td>
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed2Ha&layout=compact&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&langs_count=8" alt="Languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed2Ha&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&langs_count=8&border_radius=10" alt="Languages" />
 
 </td>
 </tr>
@@ -308,62 +392,76 @@ flowchart LR
 
 <br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=7C3AED&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=6E7681&currStreakNum=0EA5E9&sideNums=C9D1D9" alt="Streak" />
+<!-- Streak with neon glow colors -->
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&hide_border=true&background=0D1117&stroke=00FFFF&ring=BC13FE&fire=F59E0B&currStreakLabel=00FFFF&sideLabels=BC13FE&dates=6E7681&currStreakNum=00FFFF&sideNums=00FFFF&border_radius=10" alt="Streak" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=0D1117&color=0EA5E9&line=7C3AED&point=0EA5E9&area_color=7C3AED&area=true&hide_border=true" alt="Activity" />
+<!-- Activity Graph with cyberpunk glow -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=⚡%20Contribution%20Timeline&bg_color=0D1117&color=00FFFF&line=BC13FE&point=F59E0B&area_color=7C3AED&area=true&hide_border=true&radius=10" alt="Activity" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+<br/>
 
-## `> credentials`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> `> credentials`
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
+<br/>
+
 <details open>
 <summary>&nbsp;🎓 <b>Programs & Fellowships</b></summary>
 <br/>
 
-| Program | Organization |
-|:--|:--|
-| 🇯🇵 **GCI World 2026** — Deep Learning | Matsuo Lab, UTokyo |
-| 🇪🇺 **Erasmus+ Mentors Academy** | New Regeneration Project (EU) |
-| 🚀 **Galactic Problem Solver** | NASA Space Apps Challenge |
-| 🤖 **Gemini Student Ambassador** | BasharSoft / Google |
-| 🔬 **Research Cohort** | Misr El Kheir Foundation |
-| 🧠 **Data & Research Team** | Neuroverse Youth Power |
-| 🌍 **Climate Ambassador** | GreenAura |
-| 👶 **Youth Team Leader** | Save the Children Intl. |
-| 🏥 **STEM Scholar** | MedSTEMPowered |
+> | Program | Organization |
+> |:--|:--|
+> | 🇯🇵 **GCI World 2026** — Deep Learning | Matsuo Lab, UTokyo |
+> | 🇪🇺 **Erasmus+ Mentors Academy** | New Regeneration Project (EU) |
+> | 🚀 **Galactic Problem Solver** | NASA Space Apps Challenge |
+> | 🤖 **Gemini Student Ambassador** | BasharSoft / Google |
+> | 🔬 **Research Cohort** | Misr El Kheir Foundation |
+> | 🧠 **Data & Research Team** | Neuroverse Youth Power |
+> | 🌍 **Climate Ambassador** | GreenAura |
+> | 👶 **Youth Team Leader** | Save the Children Intl. |
+> | 🏥 **STEM Scholar** | MedSTEMPowered |
 
 <sub>Source: portfolio data.ts lines 30-122</sub>
 
 </details>
 
+<br/>
+
 </td>
 <td width="50%" valign="top">
+
+<br/>
 
 <details open>
 <summary>&nbsp;📜 <b>Certifications</b></summary>
 <br/>
 
-| Certificate | Issuer | Date |
-|:--|:--|:--|
-| NVIDIA DLI: Generative AI | ITI | Feb 2026 |
-| Statistics for Genomic Data Science | Johns Hopkins | Dec 2025 |
-| Intro to Genomic Technologies | Johns Hopkins | Dec 2025 |
-| Python for Genomic Data Science | Johns Hopkins | Dec 2025 |
-| Data Science: R Basics | HarvardX | 2025 |
-| Python Basics for Data Science | IBM | Oct 2025 |
-| Data Analytics Basics | IBM | Oct 2025 |
+> | Certificate | Issuer | Date |
+> |:--|:--|:--|
+> | NVIDIA DLI: Generative AI | ITI | Feb 2026 |
+> | Statistics for Genomic Data Science | Johns Hopkins | Dec 2025 |
+> | Intro to Genomic Technologies | Johns Hopkins | Dec 2025 |
+> | Python for Genomic Data Science | Johns Hopkins | Dec 2025 |
+> | Data Science: R Basics | HarvardX | 2025 |
+> | Python Basics for Data Science | IBM | Oct 2025 |
+> | Data Analytics Basics | IBM | Oct 2025 |
 
 <sub>Source: portfolio data.ts lines 124-193</sub>
 
 </details>
+
+<br/>
 
 </td>
 </tr>
@@ -381,29 +479,41 @@ flowchart LR
 <tr>
 <td width="33%" align="center">
 
-**Environmental Health**
+<br/>
 
-Chemical Analysis of Water Pollution and Its Impact on Public Health
+> **🌊 Environmental Health**
+>
+> Chemical Analysis of Water Pollution and Its Impact on Public Health
+>
+> [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527523-00FFFF?style=for-the-badge&logo=doi&logoColor=000000&labelColor=1a1a2e)](https://doi.org/10.5281/zenodo.17527523)
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527523-0D1117?style=flat-square&logo=doi&logoColor=0EA5E9&labelColor=0D1117)](https://doi.org/10.5281/zenodo.17527523)
-
-</td>
-<td width="33%" align="center">
-
-**Risk Modeling**
-
-Integrated Framework for Asteroid Impact Risk Assessment
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527414-0D1117?style=flat-square&logo=doi&logoColor=0EA5E9&labelColor=0D1117)](https://doi.org/10.5281/zenodo.17527414)
+<br/>
 
 </td>
 <td width="33%" align="center">
 
-**AI Ethics**
+<br/>
 
-AI Impact on Human Cognitive Autonomy
+> **☄️ Risk Modeling**
+>
+> Integrated Framework for Asteroid Impact Risk Assessment
+>
+> [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527414-BC13FE?style=for-the-badge&logo=doi&logoColor=ffffff&labelColor=1a1a2e)](https://doi.org/10.5281/zenodo.17527414)
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527597-0D1117?style=flat-square&logo=doi&logoColor=0EA5E9&labelColor=0D1117)](https://doi.org/10.5281/zenodo.17527597)
+<br/>
+
+</td>
+<td width="33%" align="center">
+
+<br/>
+
+> **🧠 AI Ethics**
+>
+> AI Impact on Human Cognitive Autonomy
+>
+> [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527597-39FF14?style=for-the-badge&logo=doi&logoColor=000000&labelColor=1a1a2e)](https://doi.org/10.5281/zenodo.17527597)
+
+<br/>
 
 </td>
 </tr>
@@ -415,32 +525,48 @@ AI Impact on Human Cognitive Autonomy
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+<br/>
 
 <div align="center">
 
-## `> connect`
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c5-4b59-b1b2-3b4660e0280e.gif" width="30" /> `> connect`
 
 <br/>
 
 Open to **research collaborations**, **scholarships**, and **open-source fellowships** in:
 
-`Bioinformatics` · `Data Science for Public Health` · `Computational Biology` · `Explainable AI`
+<br/>
+
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-00FFFF?style=for-the-badge&labelColor=000000)
+&nbsp;
+![Data Science](https://img.shields.io/badge/Data_Science_for_Public_Health-BC13FE?style=for-the-badge&labelColor=000000)
+&nbsp;
+![CompBio](https://img.shields.io/badge/Computational_Biology-39FF14?style=for-the-badge&labelColor=000000)
+&nbsp;
+![XAI](https://img.shields.io/badge/Explainable_AI-F59E0B?style=for-the-badge&labelColor=000000)
 
 <br/><br/>
 
-<a href="mailto:hassanahmed07.e9@gmail.com"><img src="https://img.shields.io/badge/Email-hassanahmed07.e9@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=0EA5E9&labelColor=0D1117" alt="Email"/></a>
+<a href="mailto:hassanahmed07.e9@gmail.com"><img src="https://img.shields.io/badge/✉_Email-hassanahmed07.e9@gmail.com-00FFFF?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=1a1a2e" alt="Email"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/hassan-ahmed2007"><img src="https://img.shields.io/badge/LinkedIn-hassan--ahmed2007-0D1117?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/hassan-ahmed2007"><img src="https://img.shields.io/badge/LinkedIn-hassan--ahmed2007-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=1a1a2e" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassan--ahmed-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7C3AED&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-hassan--ahmed-BC13FE?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1a1a2e" alt="Portfolio"/></a>
 &nbsp;
-<a href="https://github.com/HassanAhmed2Ha"><img src="https://img.shields.io/badge/GitHub-HassanAhmed2Ha-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://github.com/HassanAhmed2Ha"><img src="https://img.shields.io/badge/GitHub-HassanAhmed2Ha-7C3AED?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a2e" alt="GitHub"/></a>
 &nbsp;
-<a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39&labelColor=0D1117" alt="ORCID"/></a>
+<a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-39FF14?style=for-the-badge&logo=orcid&logoColor=39FF14&labelColor=1a1a2e" alt="ORCID"/></a>
 
 <br/><br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0EA5E9,100:7C3AED&height=100&section=footer" width="100%" alt="footer"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED NEON FOOTER                                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:7C3AED,60:0EA5E9,100:00FFFF&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
