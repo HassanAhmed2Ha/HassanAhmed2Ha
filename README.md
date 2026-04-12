@@ -42,7 +42,7 @@ I don't just study biology — I build **deployed AI systems** that solve real p
 
 ## ⚡ Verified Tech Stack
 
-*Every badge maps to an actual `import`, `requirements.txt`, or `package.json` in my codebase.*
+
 
 <div align="center">
 
