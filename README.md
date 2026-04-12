@@ -40,7 +40,7 @@ My agricultural training isn't separate from computation — **it's the domain e
 ## `> tech_stack`
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- BENTO BOX: Skills Grid — 2×2 layout with unified dark badges     -->
+<!-- BENTO BOX: Skills Grid — 2×2 layout with unified dark badges     -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <table width="100%">
@@ -116,7 +116,7 @@ My agricultural training isn't separate from computation — **it's the domain e
 ## `> featured_projects`
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- BENTO BOX: Featured Projects — Side-by-side cards                -->
+<!-- BENTO BOX: Featured Projects — Side-by-side cards                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <table width="100%">
@@ -219,7 +219,7 @@ My agricultural training isn't separate from computation — **it's the domain e
 ## `> research_vision`
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- MERMAID: Research Pipeline — Replaces the ugly ASCII art          -->
+<!-- MERMAID: Research Pipeline — Replaces the ugly ASCII art          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -281,7 +281,7 @@ flowchart LR
 ## `> github_analytics`
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- BENTO BOX: GitHub Stats — 2-column layout                        -->
+<!-- BENTO BOX: GitHub Stats — 2-column layout                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -366,7 +366,7 @@ AI Impact on Human Cognitive Autonomy
 ## `> credentials`
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- BENTO BOX: Credentials — 2-column compact layout                 -->
+<!-- BENTO BOX: Credentials — 2-column compact layout                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <table width="100%">
@@ -374,7 +374,7 @@ AI Impact on Human Cognitive Autonomy
 <td width="50%" valign="top">
 
 ### &nbsp;&nbsp;🎓 Programs & Fellowships
-  
+  
 <br/>
 
 &nbsp;&nbsp;🇯🇵 **GCI World 2026** — Matsuo Lab, UTokyo
