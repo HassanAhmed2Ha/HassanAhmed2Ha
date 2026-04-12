@@ -44,27 +44,38 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" /> Verified Lab Tools
 
-*Every badge below is traced to an actual import, `requirements.txt`, or `package.json` in my codebase.*
+*Every badge is traced to an actual import, `requirements.txt`, or `package.json` in my codebase.*
 
 <br/>
 
 <div align="center">
 
+`⚡ LANGUAGES`
+
 ![Python](https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
 ![R](https://img.shields.io/badge/R_(Basics)-7C3AED?style=for-the-badge&logo=r&logoColor=white&labelColor=0D1117)
+
+`🧠 ML · DEEP LEARNING · DATA`
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
 ![Keras](https://img.shields.io/badge/Keras-7C3AED?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117)
 ![SHAP](https://img.shields.io/badge/SHAP-F59E0B?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
 ![Pandas](https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
+
+`🧬 BIOINFORMATICS · STRUCTURAL BIOLOGY`
+
 ![OpenMM](https://img.shields.io/badge/OpenMM-0EA5E9?style=for-the-badge&logo=moleculer&logoColor=white&labelColor=0D1117)
 ![PDBFixer](https://img.shields.io/badge/PDBFixer-F59E0B?style=for-the-badge&logo=moleculer&logoColor=black&labelColor=0D1117)
 ![MDTraj](https://img.shields.io/badge/MDTraj-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![Biopython](https://img.shields.io/badge/Biopython-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![AMBER14](https://img.shields.io/badge/AMBER14_FF-F59E0B?style=for-the-badge&logo=moleculer&logoColor=black&labelColor=0D1117)
+
+`🏗️ FULL-STACK · INFRASTRUCTURE`
+
 ![React 18](https://img.shields.io/badge/React_18-0EA5E9?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
 ![Vite](https://img.shields.io/badge/Vite-F59E0B?style=for-the-badge&logo=vite&logoColor=black&labelColor=0D1117)
@@ -212,38 +223,28 @@ Built with React 18 · TypeScript · Vite · EmailJS · Deployed on Vercel.
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#7C3AED', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#0EA5E9', 'lineColor': '#0EA5E9', 'secondaryColor': '#0D1117', 'tertiaryColor': '#0D1117', 'background': '#0D1117', 'mainBkg': '#161B22', 'nodeBorder': '#0EA5E9', 'nodeTextColor': '#FFFFFF', 'clusterBkg': '#0D1117', 'clusterBorder': '#7C3AED'}}}%%
-flowchart LR
-    subgraph BIO["🌾 Domain Knowledge"]
-        A["Agricultural Sciences"]
-        B["Public Health"]
-    end
+<br/>
 
-    subgraph COMPUTE["⚡ Verified Stack"]
-        C["Python · Biopython · R"]
-        D["TensorFlow · SHAP · sklearn"]
-        E["OpenMM · PDBFixer · MDTraj"]
-        F["FastAPI · React · Modal"]
-    end
-
-    subgraph DELIVER["🔬 Shipped Systems"]
-        G["Genomic Data Pipelines"]
-        H["NeuroScan AI"]
-        I["BioPhys Refinement Lab"]
-    end
-
-    A --> C --> G
-    B --> D --> H
-    A --> E --> I
-    G --> F
-    H --> F
-    I --> F
-
-    style BIO fill:#161B22,stroke:#0EA5E9,stroke-width:2px,color:#FFFFFF
-    style COMPUTE fill:#161B22,stroke:#7C3AED,stroke-width:2px,color:#FFFFFF
-    style DELIVER fill:#161B22,stroke:#F59E0B,stroke-width:2px,color:#FFFFFF
 ```
+🌾 DOMAIN                    ⚡ COMPUTATION                🔬 SHIPPED SYSTEMS
+─────────────────       ──────────────────────        ────────────────────────
+                         Python · Biopython · R
+Agricultural Sciences ──────────────────────────────▶ Genomic Data Pipelines
+                         OpenMM · PDBFixer · MDTraj
+                    ╲──────────────────────────────▶ BioPhys Refinement Lab
+                         TensorFlow · SHAP · sklearn
+Public Health ──────────────────────────────────────▶ NeuroScan AI
+                         FastAPI · React · Modal
+                    ╲──────────────────────────────▶ Full-Stack Deployment
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="animated data flow"/>
+
+<br/>
+
+*Biology generates the hypotheses. Computation validates them. Engineering deploys them.*
 
 </div>
 
@@ -261,7 +262,7 @@ flowchart LR
 
 <br/><br/>
 
-<!-- Only table in the entire README: side-by-side stat cards -->
+<!-- Side-by-side stat cards -->
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=7C3AED&text_color=C9D1D9&ring_color=0EA5E9&include_all_commits=true&count_private=true&border_radius=10" alt="Stats" /></td>
@@ -276,6 +277,18 @@ flowchart LR
 <br/><br/>
 
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=0D1117&color=0EA5E9&line=7C3AED&point=F59E0B&area_color=7C3AED&area=true&hide_border=true" alt="Activity" />
+
+<br/><br/>
+
+<!-- Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake.svg" width="100%" />
+</picture>
+
+> [!TIP]
+> **To activate the snake animation above,** add the [Generate Snake](https://github.com/Platane/snk) GitHub Action to your profile repository. The workflow runs daily and commits the animated SVG to an `output` branch.
 
 </div>
 
