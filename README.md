@@ -1,13 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0EA5E9,70:7C3AED,100:F59E0B&height=220&section=header&text=Hassan%20Ahmed&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Computational%20Biology%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full-Stack%20AI&descSize=16&descColor=0EA5E9&descAlignY=54" width="100%" alt="header"/>
+
 <div align="center">
 
-# Hassan Ahmed
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=First-Year+Researcher+%E2%80%A2+Faculty+of+Agriculture;GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+University+of+Tokyo;Shipping+Explainable+AI+%26+Protein+Refinement+Pipelines" alt="Typing SVG"/></a>
 
-**Computational Biologist · ML Engineer · Full-Stack AI Developer**
-
-> First-year researcher at the Faculty of Agriculture, building deployed AI systems
-> for structural biology and public health — not just notebooks.
-
-<br/>
+<br/><br/>
 
 <a href="https://gci.t.u-tokyo.ac.jp/"><img src="https://img.shields.io/badge/GCI_World_2026-Matsuo_Lab_%7C_UTokyo-7C3AED?style=for-the-badge&labelColor=0D1117" alt="GCI"/></a>&nbsp;&nbsp;
 <a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassan--ahmed-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9&labelColor=0D1117" alt="Portfolio"/></a>&nbsp;&nbsp;
@@ -15,19 +12,33 @@
 <a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-F59E0B?style=for-the-badge&logo=orcid&logoColor=F59E0B&labelColor=0D1117" alt="ORCID"/></a>&nbsp;&nbsp;
 <a href="mailto:hassanahmed07.e9@gmail.com"><img src="https://img.shields.io/badge/Email-hassanahmed07.e9-7C3AED?style=for-the-badge&logo=gmail&logoColor=7C3AED&labelColor=0D1117" alt="Email"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=HassanAhmed2Ha&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="views"/>
+
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
 
 ## 🧬 About Me
 
-I'm a first-year undergraduate at the **Faculty of Agriculture**, Alexandria University, Egypt. I build and deploy **full-stack AI systems** — from GPU-accelerated protein refinement pipelines to explainable tumor classifiers — and publish preprints on Zenodo.
+I'm a first-year undergraduate at the **Faculty of Agriculture**, Alexandria University, Egypt.
 
-**Accepted into [GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo Laboratory, University of Tokyo** — one of the world's leading deep learning research groups.
+I don't just study biology — I build **deployed AI systems** that solve real problems in it. Explainable tumor classifiers. GPU-accelerated protein refinement pipelines. Open-source tools for researchers who can't afford premium software.
 
-I ship working systems. I fix real deployment bugs. I learn in public.
+**Accepted into [GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo Laboratory, University of Tokyo** — one of the world's leading deep learning research groups. Selected alongside graduate students from top universities globally.
 
----
+> *I ship working systems. I fix real deployment bugs. I learn in public.*
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
 
 ## ⚡ Verified Tech Stack
 
@@ -35,7 +46,11 @@ I ship working systems. I fix real deployment bugs. I learn in public.
 
 <div align="center">
 
-**LANGUAGES**
+<br/>
+
+**`LANGUAGES`**
+
+<br/>
 
 <img src="https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=0EA5E9&labelColor=0D1117" alt="Python"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=F59E0B&labelColor=0D1117" alt="JavaScript"/>&nbsp;&nbsp;
@@ -44,7 +59,9 @@ I ship working systems. I fix real deployment bugs. I learn in public.
 
 <br/><br/>
 
-**ML · DATA SCIENCE**
+**`ML · DATA SCIENCE`**
+
+<br/>
 
 <img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=7C3AED&labelColor=0D1117" alt="TensorFlow"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Keras-7C3AED?style=for-the-badge&logo=keras&logoColor=7C3AED&labelColor=0D1117" alt="Keras"/>&nbsp;&nbsp;
@@ -55,7 +72,9 @@ I ship working systems. I fix real deployment bugs. I learn in public.
 
 <br/><br/>
 
-**BIOINFORMATICS · STRUCTURAL BIOLOGY**
+**`BIOINFORMATICS · STRUCTURAL BIOLOGY`**
+
+<br/>
 
 <img src="https://img.shields.io/badge/OpenMM-0EA5E9?style=for-the-badge&logo=moleculer&logoColor=0EA5E9&labelColor=0D1117" alt="OpenMM"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PDBFixer-F59E0B?style=for-the-badge&logo=moleculer&logoColor=F59E0B&labelColor=0D1117" alt="PDBFixer"/>&nbsp;&nbsp;
@@ -65,7 +84,9 @@ I ship working systems. I fix real deployment bugs. I learn in public.
 
 <br/><br/>
 
-**FULL-STACK · DEPLOYMENT**
+**`FULL-STACK · DEPLOYMENT`**
+
+<br/>
 
 <img src="https://img.shields.io/badge/React_18-0EA5E9?style=for-the-badge&logo=react&logoColor=0EA5E9&labelColor=0D1117" alt="React 18"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-7C3AED?style=for-the-badge&logo=fastapi&logoColor=7C3AED&labelColor=0D1117" alt="FastAPI"/>&nbsp;&nbsp;
@@ -78,9 +99,15 @@ I ship working systems. I fix real deployment bugs. I learn in public.
 
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
 
 ## 🚀 Shipped Systems
+
+<br/>
 
 ### 🧬 BioPhys Refinement Lab
 
@@ -95,37 +122,41 @@ AI-predicted protein structures contain steric clashes and unphysical energies �
 </div>
 
 <details>
-<summary>🔬 Architecture Deep-Dive</summary>
+<summary>🔬 <b>Architecture Deep-Dive</b></summary>
 <br/>
-<b>Serverless GPU Backend</b> (<code>modal_app.py</code>):
+<b>⚙️ Serverless GPU Backend</b> (<code>modal_app.py</code>):
 <ul>
 <li>FastAPI on Modal with two-layer CORS middleware</li>
 <li>Async polling: <code>POST /</code> → <code>job_id</code> → GPU worker → <code>GET /status/{job_id}</code></li>
 <li>Config: <code>gpu="A10G"</code>, <code>memory=4096</code> (line 75)</li>
 <li>Calls ESMFold API (<code>api.esmatlas.com</code>) for sequence→structure (line 103)</li>
 </ul>
-<b>Two-Pass Topology Repair</b> (<code>pdb_prep.py</code>):
+<b>🧪 Two-Pass Topology Repair</b> (<code>pdb_prep.py</code>):
 <ul>
 <li>Pass 1: Strip non-standard residues + heterogens via PDBFixer + OpenMM Modeller</li>
 <li>Pass 2: Reload, detect chain breaks, add caps + hydrogens at pH 7.4</li>
 <li>Key lesson: deleting residues AFTER <code>addMissingAtoms()</code> creates dangling bonds</li>
 </ul>
-<b>Energy Minimization</b> (<code>minimization.py</code>):
+<b>⚡ Energy Minimization</b> (<code>minimization.py</code>):
 <ul>
 <li>AMBER14 + GBn2 implicit solvent, harmonic C-alpha restraints</li>
 <li>Platform cascade: CUDA → OpenCL → CPU</li>
 <li>Capped at 100 iterations (HTTP timeout constraint)</li>
 </ul>
-<b>Metrics</b> (<code>metrics.py</code>): pLDDT from B-factor column · C-alpha RMSD via MDTraj
+<b>📊 Metrics</b> (<code>metrics.py</code>): pLDDT from B-factor column · C-alpha RMSD via MDTraj
 <br/><br/>
-<b>Frontend:</b> React 18 · Vite · Tailwind CSS · Framer Motion · Axios
+<b>🖥️ Frontend:</b> React 18 · Vite · Tailwind CSS · Framer Motion · Axios
 </details>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
 
 ### 🧠 NeuroScan AI
 
-Clinical ML models are black boxes. NeuroScan accepts 5 tumor measurements, returns a **malignant/benign prediction** with confidence, and generates **per-feature SHAP explanations** for every prediction. Fully deployed: model → API → explainability → frontend.
+Clinical ML models are black boxes — clinicians can't trust what they can't explain. NeuroScan accepts 5 tumor measurements, returns a **malignant/benign prediction** with confidence, and generates **per-feature SHAP explanations** for every prediction. Fully deployed: model → API → explainability → frontend.
 
 <div align="center">
 
@@ -136,36 +167,40 @@ Clinical ML models are black boxes. NeuroScan accepts 5 tumor measurements, retu
 </div>
 
 <details>
-<summary>🔬 Architecture Deep-Dive</summary>
+<summary>🔬 <b>Architecture Deep-Dive</b></summary>
 <br/>
-<b>Neural Network</b> (<code>API.py</code>):
+<b>🧠 Neural Network</b> (<code>API.py</code>):
 <ul>
 <li>Keras Sequential: <code>Input(5) → Dense(32) → Dense(16) → Dense(8) → Dense(1, sigmoid)</code></li>
 <li>GPU disabled: <code>CUDA_VISIBLE_DEVICES = "-1"</code></li>
 <li>StandardScaler + weights via <code>joblib</code></li>
 </ul>
-<b>SHAP Explainability</b> (lines 74-87):
+<b>📈 SHAP Explainability</b> (lines 74-87):
 <ul>
 <li><code>KernelExplainer</code> — lazy init, cached after first call</li>
 <li><code>nsamples=40</code> for real-time speed (&lt;2s)</li>
 </ul>
-<b>⚠️ The Scaler Bug:</b><br/>
+<b>⚠️ The Scaler Bug (Critical Fix):</b><br/>
 After deployment, every prediction returned "Malignant." The <code>StandardScaler</code> from training was never saved — the API received raw features, a completely different distribution. Fixed by persisting with <code>joblib.dump()</code> and calling <code>scaler.transform()</code> before every prediction.
 <br/><br/>
-<b>Deployment:</b>
+<b>🚀 Deployment:</b>
 <ul>
 <li>Backend: FastAPI + Uvicorn in Docker (<code>python:3.10-slim</code>) on HuggingFace Spaces</li>
 <li>Frontend: React 18 + Vite + Tailwind CSS + Framer Motion on Vercel</li>
 </ul>
 </details>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
 
 ### 🌐 Open-Source Portfolio Template
 
 Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `data.ts`, deploy in 5 minutes.
 
-**Stack:** React 18 · TypeScript · Vite · EmailJS · Vercel
+> **Stack:** React 18 · TypeScript · Vite · EmailJS · Vercel
 
 <div align="center">
 
@@ -174,9 +209,13 @@ Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `d
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
+
+## 📊 Lab Dashboard
 
 <div align="center">
 
@@ -187,14 +226,22 @@ Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `d
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true" alt="Streak"/>
 
+<br/><br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity"/>
+
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
 
 ## 🎓 Credentials
 
 <details>
-<summary><b>Programs &amp; Fellowships</b></summary>
+<summary>🏆 <b>Programs &amp; Fellowships</b></summary>
 <br/>
 <ul>
 <li>🇯🇵 <b>GCI World 2026 — Deep Learning</b> → Matsuo Laboratory, University of Tokyo</li>
@@ -210,7 +257,7 @@ Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `d
 </details>
 
 <details>
-<summary><b>Certifications</b></summary>
+<summary>📜 <b>Certifications</b></summary>
 <br/>
 <ul>
 <li>🎮 <b>NVIDIA DLI: Generative AI</b> — ITI · Feb 2026</li>
@@ -224,7 +271,7 @@ Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `d
 </details>
 
 <details>
-<summary><b>Research Publications (Zenodo)</b></summary>
+<summary>📄 <b>Research Publications (Zenodo)</b></summary>
 <br/>
 <b>Chemical Analysis of Water Pollution and Its Impact on Public Health</b> · 2025<br/>
 <a href="https://doi.org/10.5281/zenodo.17527523"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17527523-0EA5E9?style=for-the-badge&logo=doi&logoColor=0EA5E9&labelColor=0D1117" alt="DOI"/></a>
@@ -236,7 +283,11 @@ Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `d
 <a href="https://doi.org/10.5281/zenodo.17527597"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17527597-F59E0B?style=for-the-badge&logo=doi&logoColor=F59E0B&labelColor=0D1117" alt="DOI"/></a>
 </details>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -254,8 +305,12 @@ Open to **research collaborations**, **scholarships**, and **open-source fellows
 
 <br/><br/>
 
-*First-year student building real systems at the intersection of biology and computation.*
+> *First-year student building real systems at the intersection of biology and computation.*
 
 **Alexandria, Egypt 🇪🇬**
 
+<br/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,30:7C3AED,70:0EA5E9,100:0D1117&height=100&section=footer&animation=twinkling" width="100%" alt="footer"/>
