@@ -42,7 +42,7 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" /> Verified Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" /> Verified Lab Tools
 
 *Every badge is traced to an actual import, `requirements.txt`, or `package.json` in my codebase.*
 
@@ -52,18 +52,12 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 
 `⚡ LANGUAGES`
 
-<br/>
-
 ![Python](https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
 ![R](https://img.shields.io/badge/R_(Basics)-7C3AED?style=for-the-badge&logo=r&logoColor=white&labelColor=0D1117)
 
-<br/><br/>
-
 `🧠 ML · DEEP LEARNING · DATA`
-
-<br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
 ![Keras](https://img.shields.io/badge/Keras-7C3AED?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117)
@@ -72,11 +66,7 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 ![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
 ![Pandas](https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
 
-<br/><br/>
-
 `🧬 BIOINFORMATICS · STRUCTURAL BIOLOGY`
-
-<br/>
 
 ![OpenMM](https://img.shields.io/badge/OpenMM-0EA5E9?style=for-the-badge&logo=moleculer&logoColor=white&labelColor=0D1117)
 ![PDBFixer](https://img.shields.io/badge/PDBFixer-F59E0B?style=for-the-badge&logo=moleculer&logoColor=black&labelColor=0D1117)
@@ -84,11 +74,7 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 ![Biopython](https://img.shields.io/badge/Biopython-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![AMBER14](https://img.shields.io/badge/AMBER14_FF-F59E0B?style=for-the-badge&logo=moleculer&logoColor=black&labelColor=0D1117)
 
-<br/><br/>
-
 `🏗️ FULL-STACK · INFRASTRUCTURE`
-
-<br/>
 
 ![React 18](https://img.shields.io/badge/React_18-0EA5E9?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
@@ -111,26 +97,29 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 
 <br/>
 
-> [!NOTE]
-> ### 🧬 [BioPhys Refinement Lab](https://github.com/HassanAhmed2Ha/biophys-refinement-lab)
-> **Physics-Based Protein Structure Refinement**
-> 
-> Takes protein structures (from ESMFold API or uploaded PDB files), repairs their topology with PDBFixer, and runs **OpenMM energy minimization** with the AMBER14 force field to produce stable conformations for downstream research.
->
-> <div align="center">
-> 
-> [![Live Platform](https://img.shields.io/badge/▶_LIVE_PLATFORM-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://biophys-refinement-4gj5w26hx-hassanahmed2has-projects.vercel.app)
-> &nbsp;&nbsp;
-> [![Engineering Docs](https://img.shields.io/badge/📄_ENGINEERING_DOCS-7C3AED?style=for-the-badge&labelColor=0D1117)](https://github.com/HassanAhmed2Ha/biophys-refinement-lab/blob/main/docs/ENGINEERING_JOURNEY.md)
->
-> </div>
+### 🧬 [BioPhys Refinement Lab](https://github.com/HassanAhmed2Ha/biophys-refinement-lab)
 
-<br/>
+**Physics-Based Protein Structure Refinement**
+
+Takes protein structures (from ESMFold API or uploaded PDB files), repairs their topology with PDBFixer, and runs **OpenMM energy minimization** with the AMBER14 force field to produce stable conformations for downstream research.
+
+AI-predicted structures contain steric clashes and unphysical energies. This pipeline fixes them.
+
+<div align="center">
+
+[![Live Platform](https://img.shields.io/badge/▶_LIVE_PLATFORM-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://biophys-refinement-4gj5w26hx-hassanahmed2has-projects.vercel.app)
+&nbsp;&nbsp;
+[![Engineering Docs](https://img.shields.io/badge/📄_ENGINEERING_DOCS-7C3AED?style=for-the-badge&labelColor=0D1117)](https://github.com/HassanAhmed2Ha/biophys-refinement-lab/blob/main/docs/ENGINEERING_JOURNEY.md)
+
+</div>
 
 <details>
 <summary>🔬 <b>Architecture Deep-Dive (click to expand)</b></summary>
 
 <br/>
+
+> [!NOTE]
+> **Stack:** FastAPI · OpenMM · PDBFixer · MDTraj · AMBER14 · Modal (GPU: A10G) · React 18 · Vite · Tailwind CSS · Framer Motion · Axios
 
 **`modal_app.py` — Serverless GPU Backend:**
 - FastAPI on Modal with custom two-layer CORS middleware
@@ -161,33 +150,37 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 
 <br/>
 
-> [!NOTE]
-> ### 🧠 [NeuroScan AI](https://github.com/HassanAhmed2Ha/NeuroScan-AI)
-> **Explainable Breast Cancer Diagnosis**
-> 
-> Accepts 5 clinical tumor measurements, returns a **malignant/benign prediction** with confidence, and generates **SHAP explanations** showing which features drove the decision. Most ML projects stop at a notebook. This is a **fully deployed system** — model → API → explainability → frontend.
->
-> <div align="center">
-> 
-> [![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://tumor-diagnosis-frontend.vercel.app)
-> &nbsp;&nbsp;
-> [![API Backend](https://img.shields.io/badge/🔗_API_BACKEND-7C3AED?style=for-the-badge&labelColor=0D1117)](https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend)
-> 
-> </div>
+### 🧠 [NeuroScan AI](https://github.com/HassanAhmed2Ha/NeuroScan-AI)
 
-<br/>
+**Explainable Breast Cancer Diagnosis**
+
+Accepts 5 clinical tumor measurements, returns a **malignant/benign prediction** with confidence, and generates **SHAP explanations** showing which features drove the decision.
+
+Most ML projects stop at a notebook. This is a **fully deployed system** — model → API → explainability → frontend.
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://tumor-diagnosis-frontend.vercel.app)
+&nbsp;&nbsp;
+[![API Backend](https://img.shields.io/badge/🔗_API_BACKEND-7C3AED?style=for-the-badge&labelColor=0D1117)](https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend)
+
+</div>
 
 <details>
 <summary>🔬 <b>Architecture Deep-Dive (click to expand)</b></summary>
 
 <br/>
 
+> [!NOTE]
+> **Stack:** TensorFlow/Keras · SHAP · scikit-learn · FastAPI · Uvicorn · Docker · React 18 · Vite · Tailwind CSS · Framer Motion
+
 **`API.py` — Model & Explainability:**
 - TensorFlow/Keras Sequential: `Input(5) → Dense(32) → Dense(16) → Dense(8) → Dense(1, sigmoid)`
 - StandardScaler persisted via `joblib` — fixed the critical **"always-predicts-malignant" bug** caused by missing scaler at inference
 - GPU explicitly disabled: `CUDA_VISIBLE_DEVICES = '-1'` (CPU-only deployment)
 
-**The Scaler Bug:** During deployment, the model predicted "Malignant" for every input. Root cause: the `StandardScaler` from training was never saved. The model received raw, unscaled features — a completely different distribution. Fixed by persisting the scaler with `joblib` and applying `scaler.transform()` before every prediction.
+> [!IMPORTANT]
+> **The Scaler Bug:** During deployment, the model predicted "Malignant" for every input. Root cause: the `StandardScaler` from training was never saved. The model received raw, unscaled features — a completely different distribution. Fixed by persisting the scaler with `joblib` and applying `scaler.transform()` before every prediction.
 
 **SHAP Integration** (lines 74-87):
 - `KernelExplainer` with lazy initialization (built once on first request)
@@ -206,17 +199,19 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 
 <br/>
 
-> [!TIP]
-> ### 🌐 [Open-Source Portfolio Template](https://github.com/HassanAhmed2Ha/Hassan-Ahmed-Portfolio)
-> **Bilingual (EN/AR) portfolio for students and researchers** — fork it, edit `data.ts`, deploy in minutes. Digital empowerment is a right, not a luxury.
->
-> <div align="center">
-> 
-> [![Live Site](https://img.shields.io/badge/▶_LIVE_SITE-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://hassan-ahmed-portfolio.vercel.app)
-> &nbsp;&nbsp;
-> [![Source Code](https://img.shields.io/badge/📦_SOURCE_CODE-7C3AED?style=for-the-badge&labelColor=0D1117)](https://github.com/HassanAhmed2Ha/Hassan-Ahmed-Portfolio)
-> 
-> </div>
+### 🌐 [Open-Source Portfolio Template](https://github.com/HassanAhmed2Ha/Hassan-Ahmed-Portfolio)
+
+**Bilingual (EN/AR) portfolio for students and researchers** — fork it, edit `data.ts`, deploy in minutes. Digital empowerment is a right, not a luxury.
+
+Built with React 18 · TypeScript · Vite · EmailJS · Deployed on Vercel.
+
+<div align="center">
+
+[![Live Site](https://img.shields.io/badge/▶_LIVE_SITE-0EA5E9?style=for-the-badge&labelColor=0D1117)](https://hassan-ahmed-portfolio.vercel.app)
+&nbsp;&nbsp;
+[![Source Code](https://img.shields.io/badge/📦_SOURCE_CODE-7C3AED?style=for-the-badge&labelColor=0D1117)](https://github.com/HassanAhmed2Ha/Hassan-Ahmed-Portfolio)
+
+</div>
 
 <br/><br/>
 
@@ -224,17 +219,32 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="28" /> Research Vision
-
-<br/>
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="28" /> Research Pipeline
 
 <div align="center">
 
-<img src="https://i.ibb.co/vx2w4cv/image-ac2263.jpg" width="800" style="border-radius: 15px; border: 2px solid #0EA5E9;" alt="DNA Flow" />
+<br/>
 
-<br/><br/>
+```
+🌾 DOMAIN                    ⚡ COMPUTATION                🔬 SHIPPED SYSTEMS
+─────────────────       ──────────────────────        ────────────────────────
+                         Python · Biopython · R
+Agricultural Sciences ──────────────────────────────▶ Genomic Data Pipelines
+                         OpenMM · PDBFixer · MDTraj
+                    ╲──────────────────────────────▶ BioPhys Refinement Lab
+                         TensorFlow · SHAP · sklearn
+Public Health ──────────────────────────────────────▶ NeuroScan AI
+                         FastAPI · React · Modal
+                    ╲──────────────────────────────▶ Full-Stack Deployment
+```
 
-*Agriculture is the domain. Computation is the method. Drug discovery is the mission.*
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="animated data flow"/>
+
+<br/>
+
+*Biology generates the hypotheses. Computation validates them. Engineering deploys them.*
 
 </div>
 
@@ -252,6 +262,7 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 
 <br/><br/>
 
+<!-- Side-by-side stat cards -->
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=7C3AED&text_color=C9D1D9&ring_color=0EA5E9&include_all_commits=true&count_private=true&border_radius=10" alt="Stats" /></td>
@@ -266,6 +277,18 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 <br/><br/>
 
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=0D1117&color=0EA5E9&line=7C3AED&point=F59E0B&area_color=7C3AED&area=true&hide_border=true" alt="Activity" />
+
+<br/><br/>
+
+<!-- Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-snake.svg" width="100%" />
+</picture>
+
+> [!TIP]
+> **To activate the snake animation above,** add the [Generate Snake](https://github.com/Platane/snk) GitHub Action to your profile repository. The workflow runs daily and commits the animated SVG to an `output` branch.
 
 </div>
 
@@ -294,6 +317,8 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 - 👶 **Youth Team Leader, Digital Safety** → Save the Children International
 - 🏥 **Future M.Ds+ in STEM Scholar** → MedSTEMPowered
 
+<sub>✅ Source: portfolio data.ts lines 30-122</sub>
+
 </details>
 
 <br/>
@@ -311,6 +336,8 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 - 🐍 **Python Basics for Data Science** — IBM & edX · Oct 2025
 - 📈 **Data Analytics Basics** — IBM & edX · Oct 2025
 
+<sub>✅ Source: portfolio data.ts lines 124-193</sub>
+
 </details>
 
 <br/>
@@ -324,17 +351,15 @@ I'm a student who ships working systems, breaks real deployment bugs, and learns
 Environmental Health · 2025
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527523-0EA5E9?style=for-the-badge&logo=doi&logoColor=white&labelColor=0D1117)](https://doi.org/10.5281/zenodo.17527523)
 
-<br/>
-
 **An Integrated Framework for Asteroid Impact Risk Assessment**
 Risk Modeling · 2025
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527414-7C3AED?style=for-the-badge&logo=doi&logoColor=white&labelColor=0D1117)](https://doi.org/10.5281/zenodo.17527414)
 
-<br/>
-
 **Integrated Consciousness: AI Impact on Human Cognitive Autonomy**
 AI Ethics · 2025
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17527597-F59E0B?style=for-the-badge&logo=doi&logoColor=black&labelColor=0D1117)](https://doi.org/10.5281/zenodo.17527597)
+
+<sub>✅ Source: portfolio data.ts lines 254-278</sub>
 
 </details>
 
