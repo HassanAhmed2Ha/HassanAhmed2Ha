@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- Infinite Continuous Typing SVG Header -->
+<!-- Continuous Infinite Typing SVG Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%A7%AC+Computational+Biologist+%E2%80%A2+Bioinformatics;%F0%9F%A7%A0+Alexandria+University+%E2%80%A2+Faculty+of+Agriculture;%F0%9F%9A%80+Building+Production-Grade+AI+%26+MLOps;%F0%9F%93%A1+Geospatial+Data+Science+%26+Deep+Learning" alt="Typing SVG"/>
 </a>
@@ -49,7 +49,7 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
-<!-- Continuous Infinite Dynamic Skill Bar -->
+<!-- Continuous Skill Icons -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,r,pytorch,tensorflow,scikitlearn,fastapi,docker,react,nodejs,express,mongodb,tailwind,vercel,postgres,git,github,figma&perline=10&theme=dark" alt="Dynamic Infinite Skills Matrix" />
 </a>
@@ -123,14 +123,15 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
-## 📊 Analytics & Activity Dashboard
+## 📊 Analytics & Live Snake Activity Dashboard
 
 <div align="center">
 
+<!-- Fixed & Stable Error-Free Stats Cards -->
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" valign="middle">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Metrics"/>
+      <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Metrics"/>
     </td>
     <td align="center" valign="middle">
       <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
@@ -140,7 +141,8 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=f59e0b&area_color=7c3aed&area=true&hide_border=true" alt="Contribution Timeline"/>
+<!-- Continuous Animated Snake Grid -->
+<img width="100%" src="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-contribution-grid-snake-dark.svg" alt="Continuous Contribution Snake Animation" onError="this.src='https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Continuous%20Contribution%20Timeline&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=f59e0b&area_color=7c3aed&area=true&hide_border=true'"/>
 
 </div>
 
