@@ -44,45 +44,35 @@ Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo
 
 <div align="center">
 
-<br/>
-
-**`LANGUAGES`**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=0EA5E9&labelColor=0D1117" alt="Python"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=0EA5E9&labelColor=0D1117" alt="TypeScript"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=F59E0B&labelColor=0D1117" alt="JavaScript"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kotlin-7C3AED?style=for-the-badge&logo=kotlin&logoColor=7C3AED&labelColor=0D1117" alt="Kotlin"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/R-7C3AED?style=for-the-badge&logo=r&logoColor=7C3AED&labelColor=0D1117" alt="R"/>
+### 💻 Core Languages & Runtimes
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,r&theme=dark" alt="Languages" />
+</a>
 
 <br/><br/>
 
-**`AI · ML · DATA SCIENCE`**
-
-<br/>
-
-<img src="https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=7C3AED&labelColor=0D1117" alt="PyTorch"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=7C3AED&labelColor=0D1117" alt="TensorFlow"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=0EA5E9&labelColor=0D1117" alt="scikit-learn"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/YOLOv11-F59E0B?style=for-the-badge&logo=python&logoColor=F59E0B&labelColor=0D1117" alt="YOLOv11"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SHAP-F59E0B?style=for-the-badge&logo=python&logoColor=F59E0B&labelColor=0D1117" alt="SHAP"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=0EA5E9&labelColor=0D1117" alt="Pandas"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=7C3AED&labelColor=0D1117" alt="NumPy"/>
+### 🧠 AI, Machine Learning & MLOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,fastapi,docker&theme=dark" alt="AI Stack" />
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/YOLOv11-Computer_Vision-0EA5E9?style=flat-square&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SHAP-Explainable_AI-7C3AED?style=flat-square&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Weights_&_Biases-MLOps-F59E0B?style=flat-square&logo=weightsandbiases&logoColor=white" />
 
 <br/><br/>
 
-**`FULL-STACK · MLOPS · GEOSPATIAL`**
+### 🌐 Full-Stack, Infrastructure & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vercel&theme=dark" alt="Fullstack" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/FastAPI-7C3AED?style=for-the-badge&logo=fastapi&logoColor=7C3AED&labelColor=0D1117" alt="FastAPI"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=7C3AED&labelColor=0D1117" alt="Docker"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React_18-0EA5E9?style=for-the-badge&logo=react&logoColor=0EA5E9&labelColor=0D1117" alt="React 18"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js-F59E0B?style=for-the-badge&logo=nodedotjs&logoColor=F59E0B&labelColor=0D1117" alt="Node.js"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=for-the-badge&logo=mongodb&logoColor=0EA5E9&labelColor=0D1117" alt="MongoDB"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google_Earth_Engine-7C3AED?style=for-the-badge&logo=googleearth&logoColor=7C3AED&labelColor=0D1117" alt="GEE"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Weights_&_Biases-F59E0B?style=for-the-badge&logo=weightsandbiases&logoColor=F59E0B&labelColor=0D1117" alt="W&B"/>
+### 🧬 Bioinformatics & Geospatial Intelligence
+<img src="https://img.shields.io/badge/Google_Earth_Engine-Spatial_AI-7C3AED?style=flat-square&logo=googleearth&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sentinel-SAR%2FOptical_Fusion-0EA5E9?style=flat-square&logo=satellite&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OpenMM-Molecular_Dynamics-F59E0B?style=flat-square&logo=python&logoColor=white" />
 
 </div>
 
