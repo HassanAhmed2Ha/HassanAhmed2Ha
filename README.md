@@ -1,24 +1,80 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0EA5E9,50:7C3AED,75:F59E0B,100:0D1117&height=230&section=header&text=Hassan%20Ahmed&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%E2%80%A2%20Full-Stack%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0EA5E9,50:7C3AED,75:F59E0B,100:0D1117&height=240&section=header&text=Hassan%20Ahmed&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Computational%20Biologist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Scientific%20Software%20Builder" width="100%" />
 
 <div align="center">
 
-<!-- Continuous Infinite Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%A7%AC+Computational+Biologist+%E2%80%A2+Bioinformatics;%F0%9F%A7%A0+Alexandria+University+%E2%80%A2+Faculty+of+Agriculture;%F0%9F%9A%80+Building+Production-Grade+AI+%26+MLOps;%F0%9F%93%A1+Geospatial+Data+Science+%26+Deep+Learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=700&color=0EA5E9&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%F0%9F%A7%AC+Computational+Biology+%7C+Bioinformatics;%F0%9F%A4%96+Building+Production+AI+Systems;%F0%9F%8C%8D+Geospatial+AI+%26+Environmental+Intelligence;%F0%9F%92%8A+AI+for+Drug+Discovery+%26+Life+Sciences;%F0%9F%9A%80+Research+Driven+Software+Engineering" alt="Typing Animation"/>
 </a>
 
 <br/><br/>
 
-<a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassan--ahmed-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9&labelColor=0D1117" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hassan-ahmed2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=0D1117" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-F59E0B?style=for-the-badge&logo=orcid&logoColor=F59E0B&labelColor=0D1117" alt="ORCID"/></a>&nbsp;&nbsp;
-<a href="mailto:hassanahmed07.e9@gmail.com"><img src="https://img.shields.io/badge/Email-hassanahmed07.e9-7C3AED?style=for-the-badge&logo=gmail&logoColor=7C3AED&labelColor=0D1117" alt="Email"/></a>
+<a href="https://hassan-ahmed-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hassan-ahmed2007">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0005-0306-0898">
+  <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:hassanahmed07.e9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HassanAhmed2Ha&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=HassanAhmed2Ha&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=35&section=header&animation=twinkling" width="100%" />
+
+<br/>
+
+# 🧬 Engineering AI for Scientific Discovery
+
+> **Start with the scientific question.  
+> Build the system.  
+> Create meaningful impact.**
+
+I'm Hassan Ahmed, an undergraduate Computational Biology student passionate about transforming scientific questions into production-grade AI systems.
+
+Rather than building isolated machine learning models, I design complete end-to-end platforms that integrate scientific research, software engineering, cloud infrastructure, and artificial intelligence into deployable solutions.
+
+My work spans multiple life science domains including:
+
+- 🧬 Computational Biology
+- 💊 Drug Discovery
+- 🌾 Precision Agriculture
+- 🌍 Environmental Intelligence
+- 🛰️ Geospatial AI
+- 📊 Scientific Machine Learning
+
+I enjoy solving problems where biology, engineering, and artificial intelligence intersect.
+
+Whether the challenge involves satellite imagery, molecular simulations, biomedical data, or large-scale environmental analytics, my goal remains the same:
+
+> **Transform complex scientific data into practical systems that researchers and organizations can actually use.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
+
+<br/>
+
+# 🧬 About Me
+
+Artificial intelligence is most valuable when it helps answer meaningful scientific questions.
+
+My work focuses on transforming complex scientific challenges into production-ready AI systems by combining computational biology, machine learning, software engineering, and cloud-native infrastructure.
+
+Rather than developing standalone models, I design complete end-to-end platforms that integrate data engineering, model development, deployment, visualization, and scientific interpretation into unified research workflows.
+
+My primary interests include computational biology, bioinformatics, drug discovery, precision agriculture, geospatial intelligence, and scientific machine learning, where intelligent systems can accelerate research and support real-world decision making.
+
+I enjoy working across disciplines, collaborating with researchers and engineers, and building software that makes advanced scientific computing more accessible, reproducible, and practical.
 
 <br/>
 
@@ -26,48 +82,19 @@
 
 <br/>
 
-## 🧬 About Me
+# 🔬 Research Philosophy
 
-I am an undergraduate in **Bioinformatics** at the **Faculty of Agriculture**, Alexandria University, Egypt.
+Every meaningful scientific breakthrough begins with understanding the right question.
 
-I operate at the intersection of **computational biology**, **data science**, and **software engineering**. I design and deploy end-to-end, production-grade AI systems that transform complex biological, environmental, and clinical data into real-world decision-making tools.
+Before writing a single line of code, I focus on understanding the scientific problem, identifying the biological context, and determining how data can be transformed into meaningful knowledge.
 
-> *"Start with the scientific question. Build the system. Create meaningful impact."*
+Artificial intelligence is not the destination.
 
-<br/>
+It is an engineering instrument for advancing scientific discovery.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
+This philosophy guides every system I design, from molecular simulations and bioinformatics workflows to geospatial intelligence and production-grade AI platforms.
 
-<br/>
-
-## ⚡ Technical Stack
-
-<div align="center">
-
-<!-- Animated Typing Category Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%9A%A1+Languages+%E2%80%A2+Frameworks+%E2%80%A2+AI+Engine+%E2%80%A2+Cloud" alt="Tech Header"/>
-
-<br/>
-
-<!-- Continuous Skill Icons -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,r,pytorch,tensorflow,scikitlearn,fastapi,docker,react,nodejs,express,mongodb,tailwind,vercel,postgres,git,github,figma&perline=10&theme=dark" alt="Dynamic Infinite Skills Matrix" />
-</a>
-
-<br/><br/>
-
-<!-- Glowing Neon Specialty Badges -->
-<img src="https://img.shields.io/badge/YOLOv11-Computer_Vision-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SHAP-Explainable_AI-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Weights_&_Biases-MLOps-F59E0B?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=0D1117" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Google_Earth_Engine-Geospatial_AI-7C3AED?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=0D1117" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sentinel-SAR%2FOptical_Fusion-0EA5E9?style=for-the-badge&logo=satellite&logoColor=white&labelColor=0D1117" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OpenMM-Molecular_Dynamics-F59E0B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-
-</div>
+> **Start with the scientific question. Build the system. Create meaningful impact.**
 
 <br/>
 
@@ -75,7 +102,181 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
-## 🏆 Achievements & Trophies
+# 🚀 Currently Building
+
+- 🧬 Production AI systems for Computational Biology
+- 💊 AI-assisted Drug Discovery pipelines
+- 🌾 Precision Agriculture platforms
+- 🌍 Geospatial Disaster Intelligence systems
+- ⚙️ Cloud-native MLOps architectures
+- 🛰️ Remote Sensing & Earth Observation workflows
+- 🔬 Scientific Software for Life Sciences
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
+
+<br/>
+
+# 🧪 Research Interests
+
+<table width="100%">
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Computational Biology
+
+- Structural Bioinformatics
+- Molecular Dynamics
+- Protein Structure Prediction
+- Drug Discovery
+- Bioinformatics Pipelines
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Artificial Intelligence
+
+- Scientific Machine Learning
+- Computer Vision
+- Explainable AI
+- Generative AI
+- MLOps
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Environmental Intelligence
+
+- Precision Agriculture
+- Remote Sensing
+- Geospatial Analytics
+- Disaster Intelligence
+- Climate Data Science
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering
+
+- Backend Systems
+- Cloud Computing
+- API Design
+- Production ML
+- Distributed Systems
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
+
+<br/>
+
+# ⚙️ Engineering Toolkit
+
+<table width="100%">
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 💻 Programming
+
+- Python
+- TypeScript
+- JavaScript
+- Kotlin
+- R
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Artificial Intelligence
+
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- YOLOv11
+- SHAP
+- Weights & Biases
+
+</td>
+
+<td width="34%" valign="top">
+
+### 🌐 Backend & Databases
+
+- FastAPI
+- Express.js
+- Node.js
+- REST APIs
+- MongoDB
+- PostgreSQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+- Docker
+- GitHub Actions
+- Vercel
+- Cloudflare Workers
+- Modal
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔬 Scientific Computing
+
+- OpenMM
+- Google Earth Engine
+- Sentinel-1
+- Sentinel-2
+- OpenStreetMap
+
+</td>
+
+<td width="34%" valign="top">
+
+### 🎨 Frontend & Design
+
+- React
+- Tailwind CSS
+- Three.js
+- Leaflet
+- Figma
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
+
+<br/>
+
+# 🏆 Achievements & Trophies
 
 <div align="center">
 
@@ -85,11 +286,11 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
-## 📜 Credentials & Publications
+# 📜 Credentials & Publications
 
 <details>
 <summary>📜 <b>Certifications</b></summary>
@@ -119,15 +320,51 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
+
+<br/>
+
+# 🌍 Open Source Mission
+
+I believe scientific software should be reproducible, accessible, and openly shared whenever possible.
+
+My goal is to develop production-grade AI systems that help researchers, engineers, and organizations solve real-world problems in biology, healthcare, agriculture, and environmental science.
+
+I'm particularly interested in building tools that bridge scientific research with modern software engineering practices, making advanced computational methods easier to use beyond traditional research laboratories.
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
-## 📊 Analytics & Live Activity Dashboard
+# 🤝 How I Can Contribute
+
+I enjoy collaborating on multidisciplinary projects involving:
+
+- 🧬 Computational Biology
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🛰️ Remote Sensing
+- 🌾 Precision Agriculture
+- 💊 Drug Discovery
+- 🔬 Scientific Software
+- ⚙️ Backend Engineering
+- ☁️ Cloud-native AI Systems
+- 📈 Production MLOps Pipelines
+
+Whether you're building a research project, an open-source initiative, or a production AI platform, I'm always interested in meaningful collaborations where science and engineering intersect.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
+
+<br/>
+
+# 📊 Analytics & Live Activity Dashboard
 
 <div align="center">
 
-<!-- High Availability Error-Free Stats Grid -->
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" valign="middle">
@@ -152,7 +389,7 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
