@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- Infinite Continuous Typing SVG -->
+<!-- Infinite Continuous Typing SVG Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%A7%AC+Computational+Biologist+%E2%80%A2+Bioinformatics;%F0%9F%A7%A0+Alexandria+University+%E2%80%A2+Faculty+of+Agriculture;%F0%9F%9A%80+Building+Production-Grade+AI+%26+MLOps;%F0%9F%93%A1+Geospatial+Data+Science+%26+Deep+Learning" alt="Typing SVG"/>
 </a>
@@ -40,6 +40,41 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
+## ⚡ Technical Stack
+
+<div align="center">
+
+<!-- Animated Typing Category Header -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%9A%A1+Languages+%E2%80%A2+Frameworks+%E2%80%A2+AI+Engine+%E2%80%A2+Cloud" alt="Tech Header"/>
+
+<br/>
+
+<!-- Continuous Infinite Dynamic Skill Bar -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,r,pytorch,tensorflow,scikitlearn,fastapi,docker,react,nodejs,express,mongodb,tailwind,vercel,postgres,git,github,figma&perline=10&theme=dark" alt="Dynamic Infinite Skills Matrix" />
+</a>
+
+<br/><br/>
+
+<!-- Glowing Neon Specialty Badges -->
+<img src="https://img.shields.io/badge/YOLOv11-Computer_Vision-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SHAP-Explainable_AI-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Weights_&_Biases-MLOps-F59E0B?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Google_Earth_Engine-Geospatial_AI-7C3AED?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=0D1117" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sentinel-SAR%2FOptical_Fusion-0EA5E9?style=for-the-badge&logo=satellite&logoColor=white&labelColor=0D1117" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OpenMM-Molecular_Dynamics-F59E0B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
+
+<br/>
+
 ## 🏆 Achievements & Trophies
 
 <div align="center">
@@ -51,32 +86,6 @@ I operate at the intersection of **computational biology**, **data science**, an
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
-
-<br/>
-
-## ⚡ Technical Stack
-
-<div align="center">
-
-<!-- Animated Dynamic Icon Stream -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,ts,react,nodejs,express,mongodb,kotlin,r,tailwind,vercel&theme=dark" alt="Animated Dynamic Tech Stack Stream" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Category Highlights badges -->
-<img src="https://img.shields.io/badge/AI%20%26%20MLOps-YOLOv11%20%7C%20SHAP%20%7C%20W%26B-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Bio%20%26%20Geospatial-OpenMM%20%7C%20Google%20Earth%20Engine%20%7C%20Sentinel-7C3AED?style=for-the-badge&logo=satellite&logoColor=white&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
