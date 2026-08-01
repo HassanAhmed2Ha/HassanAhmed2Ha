@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- Continuous Infinite Typing SVG -->
+<!-- Infinite Continuous Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%A7%AC+Computational+Biologist+%E2%80%A2+Bioinformatics;%F0%9F%A7%A0+GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+UTokyo;%F0%9F%9A%80+Building+Production-Grade+AI+%26+MLOps;%F0%9F%93%A1+Geospatial+Data+Science+%26+Deep+Learning" alt="Typing SVG"/>
 </a>
@@ -224,16 +224,26 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/>
 
-## 📊 Live Contribution Graph
+## 📊 Analytics & Activity Dashboard
 
 <div align="center">
 
-<!-- Fast Direct GitHub Contribution Heatmap SVG -->
-<img width="90%" src="https://ghchart.rshah.org/0EA5E9/HassanAhmed2Ha" alt="GitHub Contributions Heatmap"/>
+<!-- Aligned 2-Column Table for Metrics & Streak -->
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Metrics"/>
+    </td>
+    <td align="center" valign="middle">
+      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&border_radius=10" alt="Commit Streak"/>
+<!-- Full-Width Cohesive Contribution Wave Chart -->
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=f59e0b&area_color=7c3aed&area=true&hide_border=true" alt="Contribution Timeline"/>
 
 </div>
 
