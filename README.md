@@ -58,35 +58,19 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <div align="center">
 
-### 💻 Core Languages & Runtimes
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,r&theme=dark" alt="Languages" />
-</a>
+<!-- Animated Dynamic Icon Stream -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,ts,react,nodejs,express,mongodb,kotlin,r,tailwind,vercel&theme=dark" alt="Animated Dynamic Tech Stack Stream" />
+  </a>
+</p>
 
+<br/>
+
+<!-- Category Highlights badges -->
+<img src="https://img.shields.io/badge/AI%20%26%20MLOps-YOLOv11%20%7C%20SHAP%20%7C%20W%26B-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
 <br/><br/>
-
-### 🧠 AI, Machine Learning & MLOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,fastapi,docker&theme=dark" alt="AI Stack" />
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/YOLOv11-Computer_Vision-0EA5E9?style=flat-square&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SHAP-Explainable_AI-7C3AED?style=flat-square&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Weights_&_Biases-MLOps-F59E0B?style=flat-square&logo=weightsandbiases&logoColor=white" />
-
-<br/><br/>
-
-### 🌐 Full-Stack, Infrastructure & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vercel&theme=dark" alt="Fullstack" />
-</a>
-
-<br/><br/>
-
-### 🧬 Bioinformatics & Geospatial Intelligence
-<img src="https://img.shields.io/badge/Google_Earth_Engine-Spatial_AI-7C3AED?style=flat-square&logo=googleearth&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sentinel-SAR%2FOptical_Fusion-0EA5E9?style=flat-square&logo=satellite&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OpenMM-Molecular_Dynamics-F59E0B?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bio%20%26%20Geospatial-OpenMM%20%7C%20Google%20Earth%20Engine%20%7C%20Sentinel-7C3AED?style=for-the-badge&logo=satellite&logoColor=white&labelColor=0D1117" />
 
 </div>
 
