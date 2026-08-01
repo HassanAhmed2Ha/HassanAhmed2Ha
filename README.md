@@ -1,12 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0EA5E9,70:7C3AED,100:F59E0B&height=220&section=header&text=Hassan%20Ahmed&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Computational%20Biology%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full-Stack%20AI&descSize=16&descColor=0EA5E9&descAlignY=54" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0EA5E9,50:7C3AED,75:F59E0B,100:0D1117&height=230&section=header&text=Hassan%20Ahmed&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%E2%80%A2%20Full-Stack%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist&descSize=16&descColor=0EA5E9&descAlignY=58" width="100%" alt="Header Banner"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Computational+Biologist+%E2%80%A2+Bioinformatics;%E2%80%A2+Matsuo+Lab%2C+University+of+Tokyo;Building+Production+MLOps+%26+Geospatial+AI" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%A7%AC+Computational+Biologist+%E2%80%A2+Bioinformatics;%F0%9F%A7%A0+GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+UTokyo;%F0%9F%9A%80+Building+Production-Grade+AI+%26+MLOps;%F0%9F%93%A1+Geospatial+Data+Science+%26+Deep+Learning" alt="Typing SVG"/>
+</a>
 
 <br/><br/>
 
-
+<a href="https://gci.t.u-tokyo.ac.jp/"><img src="https://img.shields.io/badge/GCI_World_2026-Matsuo_Lab_%7C_UTokyo-7C3AED?style=for-the-badge&labelColor=0D1117" alt="GCI"/></a>&nbsp;&nbsp;
 <a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassan--ahmed-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9&labelColor=0D1117" alt="Portfolio"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hassan-ahmed2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=0D1117" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-F59E0B?style=for-the-badge&logo=orcid&logoColor=F59E0B&labelColor=0D1117" alt="ORCID"/></a>&nbsp;&nbsp;
@@ -20,7 +22,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=4&section=header" width="100%" />
 
 <br/>
 
@@ -30,12 +32,27 @@ I am an undergraduate in **Bioinformatics** at the **Faculty of Agriculture**, A
 
 I operate at the intersection of **computational biology**, **data science**, and **software engineering**. I design and deploy end-to-end, production-grade AI systems that transform complex biological, environmental, and clinical data into real-world decision-making tools.
 
+Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo-Iwasawa Laboratory, University of Tokyo** — focused on advanced machine learning foundations and scientific data applications.
 
 > *"Start with the scientific question. Build the system. Create meaningful impact."*
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=4&section=header" width="100%" />
+
+<br/>
+
+## 🏆 Dynamic Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HassanAhmed2Ha&theme=tokyonight&no-bg=true&column=4&margin-w=15" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=4&section=header" width="100%" />
 
 <br/>
 
@@ -77,7 +94,7 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=4&section=header" width="100%" />
 
 <br/>
 
@@ -85,16 +102,34 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <br/>
 
+<div align="center">
+
+<!-- Live Repository Cards -->
+<a href="https://github.com/HassanAhmed2Ha/AgriTech-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=AgriTech-AI&theme=tokyonight&show_owner=false&border_radius=10" alt="AgriTech AI Repo"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/HassanAhmed2Ha/Ryde">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=Ryde&theme=tokyonight&show_owner=false&border_radius=10" alt="Ryde Repo"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/HassanAhmed2Ha/Flood-Intelligence-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=Flood-Intelligence-AI&theme=tokyonight&show_owner=false&border_radius=10" alt="Flood Intelligence AI Repo"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/HassanAhmed2Ha/NeuroScan-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=NeuroScan-AI&theme=tokyonight&show_owner=false&border_radius=10" alt="NeuroScan AI Repo"/>
+</a>
+
+</div>
+
+<br/>
+
 ### 🌾 AgriTech AI — Real-Time Crop Disease Segmentation
 
 AI-powered computer vision platform separating compute-intensive inference from mobile clients. Enables real-time crop disease instance segmentation on low-spec Android devices via cloud-native API streaming.
-
-<div align="center">
-
-<a href="https://github.com/HassanAhmed2Ha/AgriTech-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/spaces/Hassan2007/agritech-backend"><img src="https://img.shields.io/badge/%E2%96%B6_FastAPI_Backend-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Backend"/></a>
-
-</div>
 
 <details>
 <summary>🔬 <b>Architecture Deep-Dive</b></summary>
@@ -113,13 +148,6 @@ AI-powered computer vision platform separating compute-intensive inference from 
 
 Production-grade dynamic fare prediction platform evaluated on 178,274 real-world NYC taxi trips, built to bypass serverless deployment constraints.
 
-<div align="center">
-
-<a href="https://github.com/HassanAhmed2Ha/Ryde"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
-<a href="https://ryde-demo.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
-
-</div>
-
 <details>
 <summary>🔬 <b>Architecture Deep-Dive</b></summary>
 <br/>
@@ -135,12 +163,6 @@ Production-grade dynamic fare prediction platform evaluated on 178,274 real-worl
 ### 🛰️ Flood Intelligence AI — Satellite-Driven Geospatial Platform
 
 End-to-end geospatial disaster response intelligence platform combining multi-spectral satellite imagery and deep learning for automated flood detection.
-
-<div align="center">
-
-<a href="https://github.com/HassanAhmed2Ha/Flood-Intelligence-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>
-
-</div>
 
 <details>
 <summary>🔬 <b>Architecture Deep-Dive</b></summary>
@@ -159,16 +181,9 @@ End-to-end geospatial disaster response intelligence platform combining multi-sp
 
 Breast tumor diagnostic pipeline generating transparent per-feature SHAP explainability for every inference.
 
-<div align="center">
-
-<a href="https://github.com/HassanAhmed2Ha/NeuroScan-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
-<a href="https://tumor-diagnosis-frontend.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
-
-</div>
-
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=4&section=header" width="100%" />
 
 <br/>
 
@@ -202,7 +217,7 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=4&section=header" width="100%" />
 
 <br/>
 
@@ -215,6 +230,10 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/><br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&border_radius=10" alt="Commit Streak"/>
+
+<br/><br/>
+
 <!-- Real-time GitHub Contribution Timeline -->
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
 
@@ -222,7 +241,7 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=4&section=header" width="100%" />
 
 <br/>
 
