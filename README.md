@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=First-Year+Researcher+%E2%80%A2+Faculty+of+Agriculture;GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+University+of+Tokyo;Shipping+Explainable+AI+%26+Protein+Refinement+Pipelines" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Computational+Biologist+%E2%80%A2+Bioinformatics;GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+University+of+Tokyo;Shipping+Production+MLOps+%26+Structural+Bio+Pipelines" alt="Typing SVG"/></a>
 
 <br/><br/>
 
@@ -26,13 +26,13 @@
 
 ## 🧬 About Me
 
-I'm a first-year undergraduate at the **Faculty of Agriculture**, Alexandria University, Egypt.
+I am an undergraduate in **Bioinformatics** at the **Faculty of Agriculture**, Alexandria University, Egypt.
 
-I don't just study biology — I build **deployed AI systems** that solve real problems in it. Explainable tumor classifiers. GPU-accelerated protein refinement pipelines. Open-source tools for researchers who can't afford premium software.
+I operate at the intersection of **computational biology**, **data science**, and **software engineering**. I don't just train machine learning models — I design and deploy end-to-end, production-grade AI systems that transform complex biological, environmental, and clinical data into real-world decision-making tools.
 
-**Accepted into [GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo Laboratory, University of Tokyo** — one of the world's leading deep learning research groups. Selected alongside graduate students from top universities globally.
+Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo-Iwasawa Laboratory, University of Tokyo** — focused on advanced machine learning foundations and scientific data applications.
 
-> *I ship working systems. I fix real deployment bugs. I learn in public.*
+> *"Start with the scientific question. Build the system. Create meaningful impact."*
 
 <br/>
 
@@ -40,9 +40,7 @@ I don't just study biology — I build **deployed AI systems** that solve real p
 
 <br/>
 
-## ⚡ Verified Tech Stack
-
-
+## ⚡ Technical Stack
 
 <div align="center">
 
@@ -53,49 +51,50 @@ I don't just study biology — I build **deployed AI systems** that solve real p
 <br/>
 
 <img src="https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=0EA5E9&labelColor=0D1117" alt="Python"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=F59E0B&labelColor=0D1117" alt="JavaScript"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=0EA5E9&labelColor=0D1117" alt="TypeScript"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/R_(Basics)-7C3AED?style=for-the-badge&logo=r&logoColor=7C3AED&labelColor=0D1117" alt="R"/>
+<img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=F59E0B&labelColor=0D1117" alt="JavaScript"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-7C3AED?style=for-the-badge&logo=kotlin&logoColor=7C3AED&labelColor=0D1117" alt="Kotlin"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/R-7C3AED?style=for-the-badge&logo=r&logoColor=7C3AED&labelColor=0D1117" alt="R"/>
 
 <br/><br/>
 
-**`ML · DATA SCIENCE`**
+**`AI · ML · DATA SCIENCE`**
 
 <br/>
 
+<img src="https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=7C3AED&labelColor=0D1117" alt="PyTorch"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=7C3AED&labelColor=0D1117" alt="TensorFlow"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Keras-7C3AED?style=for-the-badge&logo=keras&logoColor=7C3AED&labelColor=0D1117" alt="Keras"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SHAP-F59E0B?style=for-the-badge&logo=python&logoColor=F59E0B&labelColor=0D1117" alt="SHAP"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/scikit--learn-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=0EA5E9&labelColor=0D1117" alt="scikit-learn"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=7C3AED&labelColor=0D1117" alt="NumPy"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=0EA5E9&labelColor=0D1117" alt="Pandas"/>
+<img src="https://img.shields.io/badge/YOLOv11-F59E0B?style=for-the-badge&logo=python&logoColor=F59E0B&labelColor=0D1117" alt="YOLOv11"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SHAP-F59E0B?style=for-the-badge&logo=python&logoColor=F59E0B&labelColor=0D1117" alt="SHAP"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=0EA5E9&labelColor=0D1117" alt="Pandas"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=7C3AED&labelColor=0D1117" alt="NumPy"/>
 
 <br/><br/>
 
-**`BIOINFORMATICS · STRUCTURAL BIOLOGY`**
+**`BIOINFORMATICS & GEOSPATIAL`**
 
 <br/>
 
 <img src="https://img.shields.io/badge/OpenMM-0EA5E9?style=for-the-badge&logo=moleculer&logoColor=0EA5E9&labelColor=0D1117" alt="OpenMM"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PDBFixer-F59E0B?style=for-the-badge&logo=moleculer&logoColor=F59E0B&labelColor=0D1117" alt="PDBFixer"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MDTraj-7C3AED?style=for-the-badge&logo=python&logoColor=7C3AED&labelColor=0D1117" alt="MDTraj"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Biopython-0EA5E9?style=for-the-badge&logo=python&logoColor=0EA5E9&labelColor=0D1117" alt="Biopython"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AMBER14_FF-F59E0B?style=for-the-badge&logo=moleculer&logoColor=F59E0B&labelColor=0D1117" alt="AMBER14"/>
+<img src="https://img.shields.io/badge/Google_Earth_Engine-7C3AED?style=for-the-badge&logo=googleearth&logoColor=7C3AED&labelColor=0D1117" alt="GEE"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sentinel_SAR/Optical-0EA5E9?style=for-the-badge&logo=satellite&logoColor=0EA5E9&labelColor=0D1117" alt="Sentinel"/>
 
 <br/><br/>
 
-**`FULL-STACK · DEPLOYMENT`**
+**`FULL-STACK · MLOPS · CLOUD`**
 
 <br/>
 
-<img src="https://img.shields.io/badge/React_18-0EA5E9?style=for-the-badge&logo=react&logoColor=0EA5E9&labelColor=0D1117" alt="React 18"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-7C3AED?style=for-the-badge&logo=fastapi&logoColor=7C3AED&labelColor=0D1117" alt="FastAPI"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vite-F59E0B?style=for-the-badge&logo=vite&logoColor=F59E0B&labelColor=0D1117" alt="Vite"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=0EA5E9&labelColor=0D1117" alt="Tailwind CSS"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=7C3AED&labelColor=0D1117" alt="Docker"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Modal-F59E0B?style=for-the-badge&logo=serverless&logoColor=F59E0B&labelColor=0D1117" alt="Modal"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vercel-0EA5E9?style=for-the-badge&logo=vercel&logoColor=0EA5E9&labelColor=0D1117" alt="Vercel"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-7C3AED?style=for-the-badge&logo=huggingface&logoColor=7C3AED&labelColor=0D1117" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/React_18-0EA5E9?style=for-the-badge&logo=react&logoColor=0EA5E9&labelColor=0D1117" alt="React 18"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-F59E0B?style=for-the-badge&logo=nodedotjs&logoColor=F59E0B&labelColor=0D1117" alt="Node.js"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=for-the-badge&logo=mongodb&logoColor=0EA5E9&labelColor=0D1117" alt="MongoDB"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Weights_&_Biases-F59E0B?style=for-the-badge&logo=weightsandbiases&logoColor=F59E0B&labelColor=0D1117" alt="W&B"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vercel-0EA5E9?style=for-the-badge&logo=vercel&logoColor=0EA5E9&labelColor=0D1117" alt="Vercel"/>
 
 </div>
 
@@ -105,153 +104,132 @@ I don't just study biology — I build **deployed AI systems** that solve real p
 
 <br/>
 
-## 🚀 Shipped Systems
+## 🚀 Deployed Production Systems
 
 <br/>
 
-### 🧬 BioPhys Refinement Lab
+### 🌾 AgriTech AI — Real-Time Crop Disease Segmentation
 
-AI-predicted protein structures contain steric clashes and unphysical energies — unusable for drug docking. This platform repairs topology with PDBFixer and runs **OpenMM energy minimization** (AMBER14 force field) on Modal's serverless GPU infrastructure to produce research-grade conformations.
+AI-powered computer vision platform separating compute-intensive inference from mobile clients. Enables real-time crop disease instance segmentation on low-spec Android devices via cloud-native API streaming.
+
+<div align="center">
+
+<a href="https://github.com/HassanAhmed2Ha/AgriTech-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/spaces/Hassan2007/agritech-backend"><img src="https://img.shields.io/badge/%E2%96%B6_FastAPI_Backend-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Backend"/></a>
+
+</div>
+
+<details>
+<summary>🔬 <b>Architecture Deep-Dive</b></summary>
+<br/>
+<ul>
+<li><b>Edge Client:</b> Android native app (Kotlin, Jetpack Compose, CameraX) with client-side frame throttling to eliminate network backpressure.</li>
+<li><b>Cloud Inference:</b> FastAPI + YOLOv11 Instance Segmentation containerized on Docker.</li>
+<li><b>Network Optimization:</b> Flattened 160×160 segmentation masks into compact 1D arrays to minimize payload size and payload serialization overhead.</li>
+<li><b>MLOps:</b> Real-time telemetry monitoring via Weights & Biases (W&B).</li>
+</ul>
+</details>
+
+<br/>
+
+### 🚘 Ryde — Zero-Dependency Serverless ML Platform
+
+Production-grade dynamic fare prediction platform evaluated on 178,274 real-world NYC taxi trips, built to bypass serverless deployment constraints.
+
+<div align="center">
+
+<a href="https://github.com/HassanAhmed2Ha/Ryde"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
+<a href="https://ryde-demo.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
+
+</div>
+
+<details>
+<summary>🔬 <b>Architecture Deep-Dive</b></summary>
+<br/>
+<ul>
+<li><b>Pure Python Inference Engine:</b> Replaced bulky scikit-learn runtime with zero-dependency tree-traversal logic, cutting deployment size from >350 MB to <5 MB for zero-cost Vercel deployment.</li>
+<li><b>OOD Guardrail:</b> Out-of-Distribution detector that automatically triggers fallbacks to interpretable baseline pricing algorithms for unobserved geospatial inputs.</li>
+<li><b>Full Stack:</b> React, Node.js, Express, FastAPI, MongoDB Atlas.</li>
+</ul>
+</details>
+
+<br/>
+
+### 🛰️ Flood Intelligence AI — Satellite-Driven Geospatial Platform
+
+End-to-end geospatial disaster response intelligence platform combining multi-spectral satellite imagery and deep learning for automated flood detection.
+
+<div align="center">
+
+<a href="https://github.com/HassanAhmed2Ha/Flood-Intelligence-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>
+
+</div>
+
+<details>
+<summary>🔬 <b>Architecture Deep-Dive</b></summary>
+<br/>
+<ul>
+<li><b>Data Fusion Pipeline:</b> 8-channel Sentinel-1 SAR and Sentinel-2 optical data integration feeding a U-Net semantic segmentation model.</li>
+<li><b>Smart SAR Fallback:</b> Hybrid thresholding strategy preventing false-positive flood segmentation during heavy cloud cover.</li>
+<li><b>Geospatial Damage Assessment:</b> Automatic mask polygonization overlaid with OpenStreetMap data to estimate impacted infrastructure.</li>
+<li><b>Tactical Dashboard:</b> Interactive 3D Earth control center engineered with Three.js, Leaflet, and Google Earth Engine APIs.</li>
+</ul>
+</details>
+
+<br/>
+
+### 🧬 BioPhys Refinement Lab — GPU Structural Protein Pipeline
+
+Serverless platform refining raw AI-predicted protein structures (AlphaFold/ESMFold) into docking-ready thermodynamic conformations.
 
 <div align="center">
 
 <a href="https://github.com/HassanAhmed2Ha/biophys-refinement-lab"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
-<a href="https://biophys-refinement-4gj5w26hx-hassanahmed2has-projects.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Platform-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>&nbsp;&nbsp;
-<a href="https://github.com/HassanAhmed2Ha/biophys-refinement-lab/blob/main/docs/ENGINEERING_JOURNEY.md"><img src="https://img.shields.io/badge/%F0%9F%93%84_Engineering_Docs-F59E0B?style=for-the-badge&labelColor=0D1117" alt="Docs"/></a>
+<a href="https://biophys-refinement-lab.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Platform-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
 
 </div>
 
 <details>
 <summary>🔬 <b>Architecture Deep-Dive</b></summary>
 <br/>
-<b>⚙️ Serverless GPU Backend</b> (<code>modal_app.py</code>):
 <ul>
-<li>FastAPI on Modal with two-layer CORS middleware</li>
-<li>Async polling: <code>POST /</code> → <code>job_id</code> → GPU worker → <code>GET /status/{job_id}</code></li>
-<li>Config: <code>gpu="A10G"</code>, <code>memory=4096</code> (line 75)</li>
-<li>Calls ESMFold API (<code>api.esmatlas.com</code>) for sequence→structure (line 103)</li>
+<li><b>Topology Repair:</b> Two-pass PDBFixer and OpenMM Modeller pipeline restoring missing terminal caps and balancing protonation states at pH 7.4.</li>
+<li><b>Energy Minimization:</b> AMBER14 forcefield with harmonic C-alpha restraints on Modal's serverless NVIDIA A10G GPUs.</li>
+<li><b>Frontend/Backend:</b> Asynchronous polling FastAPI backend with React Vite UI.</li>
 </ul>
-<b>🧪 Two-Pass Topology Repair</b> (<code>pdb_prep.py</code>):
-<ul>
-<li>Pass 1: Strip non-standard residues + heterogens via PDBFixer + OpenMM Modeller</li>
-<li>Pass 2: Reload, detect chain breaks, add caps + hydrogens at pH 7.4</li>
-<li>Key lesson: deleting residues AFTER <code>addMissingAtoms()</code> creates dangling bonds</li>
-</ul>
-<b>⚡ Energy Minimization</b> (<code>minimization.py</code>):
-<ul>
-<li>AMBER14 + GBn2 implicit solvent, harmonic C-alpha restraints</li>
-<li>Platform cascade: CUDA → OpenCL → CPU</li>
-<li>Capped at 100 iterations (HTTP timeout constraint)</li>
-</ul>
-<b>📊 Metrics</b> (<code>metrics.py</code>): pLDDT from B-factor column · C-alpha RMSD via MDTraj
-<br/><br/>
-<b>🖥️ Frontend:</b> React 18 · Vite · Tailwind CSS · Framer Motion · Axios
 </details>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+### 🧠 NeuroScan AI — Clinical Tumor Classifier with SHAP
 
-<br/>
-
-### 🧠 NeuroScan AI
-
-Clinical ML models are black boxes — clinicians can't trust what they can't explain. NeuroScan accepts 5 tumor measurements, returns a **malignant/benign prediction** with confidence, and generates **per-feature SHAP explanations** for every prediction. Fully deployed: model → API → explainability → frontend.
+Breast tumor diagnostic pipeline generating transparent per-feature SHAP explainability for every inference.
 
 <div align="center">
 
 <a href="https://github.com/HassanAhmed2Ha/NeuroScan-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
-<a href="https://tumor-diagnosis-frontend.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend"><img src="https://img.shields.io/badge/%F0%9F%94%97_API_Backend-F59E0B?style=for-the-badge&labelColor=0D1117" alt="API"/></a>
+<a href="https://tumor-diagnosis-frontend.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
 
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
+
+## 🎓 Credentials & Programs
 
 <details>
-<summary>🔬 <b>Architecture Deep-Dive</b></summary>
-<br/>
-<b>🧠 Neural Network</b> (<code>API.py</code>):
-<ul>
-<li>Keras Sequential: <code>Input(5) → Dense(32) → Dense(16) → Dense(8) → Dense(1, sigmoid)</code></li>
-<li>GPU disabled: <code>CUDA_VISIBLE_DEVICES = "-1"</code></li>
-<li>StandardScaler + weights via <code>joblib</code></li>
-</ul>
-<b>📈 SHAP Explainability</b> (lines 74-87):
-<ul>
-<li><code>KernelExplainer</code> — lazy init, cached after first call</li>
-<li><code>nsamples=40</code> for real-time speed (&lt;2s)</li>
-</ul>
-<b>⚠️ The Scaler Bug (Critical Fix):</b><br/>
-After deployment, every prediction returned "Malignant." The <code>StandardScaler</code> from training was never saved — the API received raw features, a completely different distribution. Fixed by persisting with <code>joblib.dump()</code> and calling <code>scaler.transform()</code> before every prediction.
-<br/><br/>
-<b>🚀 Deployment:</b>
-<ul>
-<li>Backend: FastAPI + Uvicorn in Docker (<code>python:3.10-slim</code>) on HuggingFace Spaces</li>
-<li>Frontend: React 18 + Vite + Tailwind CSS + Framer Motion on Vercel</li>
-</ul>
-</details>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
-
-<br/>
-
-### 🌐 Open-Source Portfolio Template
-
-Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `data.ts`, deploy in 5 minutes.
-
-> **Stack:** React 18 · TypeScript · Vite · EmailJS · Vercel
-
-<div align="center">
-
-<a href="https://github.com/HassanAhmed2Ha/Hassan-Ahmed-Portfolio"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
-<a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Site-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
-
-<br/>
-
-## 📊 Lab Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="Stats"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed2Ha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Languages"/>
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true" alt="Streak"/>
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
-
-<br/>
-
-## 🎓 Credentials
-
-<details>
-<summary>🏆 <b>Programs &amp; Fellowships</b></summary>
+<summary>🏆 <b>Recognitions & Cohorts</b></summary>
 <br/>
 <ul>
-<li>🇯🇵 <b>GCI World 2026 — Deep Learning</b> → Matsuo Laboratory, University of Tokyo</li>
-<li>🇪🇺 <b>Erasmus+ Mentors Academy Trainee</b> → New Regeneration Project (EU)</li>
-<li>🚀 <b>Galactic Problem Solver</b> → NASA International Space Apps Challenge</li>
-<li>🤖 <b>Google Gemini Student Ambassador</b> → BasharSoft (800+ students impacted)</li>
-<li>🔬 <b>Research Cohort Member</b> → Misr El Kheir Foundation</li>
-<li>🧠 <b>Core Team, Data &amp; Research</b> → Neuroverse Youth Power</li>
-<li>🌍 <b>Climate Ambassador</b> → GreenAura (Stanford &amp; JHU mentors)</li>
-<li>👶 <b>Youth Team Leader, Digital Safety</b> → Save the Children International</li>
+<li>🇯🇵 <b>GCI World 2026 — Deep Learning Track</b> → Matsuo-Iwasawa Lab, University of Tokyo</li>
+<li>🚀 <b>Galactic Problem Solver</b> → NASA International Space Apps Challenge 2025</li>
+<li>🤖 <b>Google Gemini Student Ambassador</b> → BasharSoft × iCareer (Ranked 3rd Nationwide)</li>
+<li>🔬 <b>Scientific Research Cohort Member</b> → Misr El Kheir Foundation (MEK)</li>
+<li>👶 <b>Youth Team Leader & Facilitator</b> → Save the Children International (Safe-Surf Program)</li>
+<li>🌱 <b>Climate Action Ambassador</b> → GreenAura (Mentorship by Stanford & JHU affiliates)</li>
 <li>🏥 <b>Future M.Ds+ in STEM Scholar</b> → MedSTEMPowered</li>
 </ul>
 </details>
@@ -260,18 +238,17 @@ Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `d
 <summary>📜 <b>Certifications</b></summary>
 <br/>
 <ul>
-<li>🎮 <b>NVIDIA DLI: Generative AI</b> — ITI · Feb 2026</li>
-<li>🧬 <b>Statistics for Genomic Data Science</b> — Johns Hopkins · Dec 2025</li>
-<li>🧬 <b>Introduction to Genomic Technologies</b> — Johns Hopkins · Dec 2025</li>
-<li>🧬 <b>Python for Genomic Data Science</b> — Johns Hopkins · Dec 2025</li>
-<li>📊 <b>Data Science: R Basics</b> — HarvardX · 2025</li>
-<li>🐍 <b>Python Basics for Data Science</b> — IBM · Oct 2025</li>
-<li>📈 <b>Data Analytics Basics</b> — IBM · Oct 2025</li>
+<li>🎮 <b>NVIDIA DLI: Generative AI</b> — Information Technology Institute (ITI) · Feb 2026</li>
+<li>⚡ <b>Building LLM Applications with Prompt Engineering</b> — NVIDIA · Feb 2026</li>
+<li>🧬 <b>Statistics for Genomic Data Science</b> — Johns Hopkins University (Coursera)</li>
+<li>🧬 <b>Introduction to Genomic Technologies</b> — Johns Hopkins University (Coursera)</li>
+<li>🧬 <b>Python for Genomic Data Science</b> — Johns Hopkins University (Coursera)</li>
+<li>📊 <b>Data Science: R Basics</b> — HarvardX</li>
 </ul>
 </details>
 
 <details>
-<summary>📄 <b>Research Publications (Zenodo)</b></summary>
+<summary>📄 <b>Preprints & Open Publications (Zenodo)</b></summary>
 <br/>
 <b>Chemical Analysis of Water Pollution and Its Impact on Public Health</b> · 2025<br/>
 <a href="https://doi.org/10.5281/zenodo.17527523"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17527523-0EA5E9?style=for-the-badge&logo=doi&logoColor=0EA5E9&labelColor=0D1117" alt="DOI"/></a>
@@ -289,23 +266,39 @@ Free, bilingual (EN/AR) portfolio for students and researchers. Fork it, edit `d
 
 <br/>
 
+## 📊 Analytics Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="Stats"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed2Ha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Languages"/>
+
+<br/><br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<br/>
+
 <div align="center">
 
 ## 🤝 Let's Connect
 
-Open to **research collaborations**, **scholarships**, and **open-source fellowships**.
+Open to **computational biology research**, **academic collaborations**, and **AI engineering roles**.
 
 <br/>
 
 <a href="mailto:hassanahmed07.e9@gmail.com"><img src="https://img.shields.io/badge/Email-hassanahmed07.e9%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=0EA5E9&labelColor=0D1117" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hassan-ahmed2007"><img src="https://img.shields.io/badge/LinkedIn-hassan--ahmed2007-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=0D1117" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassan--ahmed-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=7C3AED&labelColor=0D1117" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="https://github.com/HassanAhmed2Ha"><img src="https://img.shields.io/badge/GitHub-HassanAhmed2Ha-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="GitHub"/></a>&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-F59E0B?style=for-the-badge&logo=orcid&logoColor=F59E0B&labelColor=0D1117" alt="ORCID"/></a>
 
 <br/><br/>
-
-> *First-year student building real systems at the intersection of biology and computation.*
 
 **Alexandria, Egypt 🇪🇬**
 
