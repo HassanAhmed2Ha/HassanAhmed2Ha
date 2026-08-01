@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Computational+Biologist+%E2%80%A2+Bioinformatics;GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+University+of+Tokyo;Shipping+Production+MLOps+%26+Structural+Bio+Pipelines" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Computational+Biologist+%E2%80%A2+Bioinformatics;GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+University+of+Tokyo;Building+Production+MLOps+%26+Geospatial+AI" alt="Typing SVG"/></a>
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 
 I am an undergraduate in **Bioinformatics** at the **Faculty of Agriculture**, Alexandria University, Egypt.
 
-I operate at the intersection of **computational biology**, **data science**, and **software engineering**. I don't just train machine learning models — I design and deploy end-to-end, production-grade AI systems that transform complex biological, environmental, and clinical data into real-world decision-making tools.
+I operate at the intersection of **computational biology**, **data science**, and **software engineering**. I design and deploy end-to-end, production-grade AI systems that transform complex biological, environmental, and clinical data into real-world decision-making tools.
 
 Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo-Iwasawa Laboratory, University of Tokyo** — focused on advanced machine learning foundations and scientific data applications.
 
@@ -72,19 +72,7 @@ Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo
 
 <br/><br/>
 
-**`BIOINFORMATICS & GEOSPATIAL`**
-
-<br/>
-
-<img src="https://img.shields.io/badge/OpenMM-0EA5E9?style=for-the-badge&logo=moleculer&logoColor=0EA5E9&labelColor=0D1117" alt="OpenMM"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PDBFixer-F59E0B?style=for-the-badge&logo=moleculer&logoColor=F59E0B&labelColor=0D1117" alt="PDBFixer"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Biopython-0EA5E9?style=for-the-badge&logo=python&logoColor=0EA5E9&labelColor=0D1117" alt="Biopython"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google_Earth_Engine-7C3AED?style=for-the-badge&logo=googleearth&logoColor=7C3AED&labelColor=0D1117" alt="GEE"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sentinel_SAR/Optical-0EA5E9?style=for-the-badge&logo=satellite&logoColor=0EA5E9&labelColor=0D1117" alt="Sentinel"/>
-
-<br/><br/>
-
-**`FULL-STACK · MLOPS · CLOUD`**
+**`FULL-STACK · MLOPS · GEOSPATIAL`**
 
 <br/>
 
@@ -93,8 +81,8 @@ Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo
 <img src="https://img.shields.io/badge/React_18-0EA5E9?style=for-the-badge&logo=react&logoColor=0EA5E9&labelColor=0D1117" alt="React 18"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js-F59E0B?style=for-the-badge&logo=nodedotjs&logoColor=F59E0B&labelColor=0D1117" alt="Node.js"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=for-the-badge&logo=mongodb&logoColor=0EA5E9&labelColor=0D1117" alt="MongoDB"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Weights_&_Biases-F59E0B?style=for-the-badge&logo=weightsandbiases&logoColor=F59E0B&labelColor=0D1117" alt="W&B"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vercel-0EA5E9?style=for-the-badge&logo=vercel&logoColor=0EA5E9&labelColor=0D1117" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Google_Earth_Engine-7C3AED?style=for-the-badge&logo=googleearth&logoColor=7C3AED&labelColor=0D1117" alt="GEE"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Weights_&_Biases-F59E0B?style=for-the-badge&logo=weightsandbiases&logoColor=F59E0B&labelColor=0D1117" alt="W&B"/>
 
 </div>
 
@@ -148,7 +136,7 @@ Production-grade dynamic fare prediction platform evaluated on 178,274 real-worl
 <br/>
 <ul>
 <li><b>Pure Python Inference Engine:</b> Replaced bulky scikit-learn runtime with zero-dependency tree-traversal logic, cutting deployment size from >350 MB to <5 MB for zero-cost Vercel deployment.</li>
-<li><b>OOD Guardrail:</b> Out-of-Distribution detector that automatically triggers fallbacks to interpretable baseline pricing algorithms for unobserved geospatial inputs.</li>
+<li><b>OOD Guardrail:</b> Out-of-Distribution detector that automatically triggers fallbacks to interpretable baseline pricing algorithms for unobserved geographical inputs.</li>
 <li><b>Full Stack:</b> React, Node.js, Express, FastAPI, MongoDB Atlas.</li>
 </ul>
 </details>
@@ -178,29 +166,6 @@ End-to-end geospatial disaster response intelligence platform combining multi-sp
 
 <br/>
 
-### 🧬 BioPhys Refinement Lab — GPU Structural Protein Pipeline
-
-Serverless platform refining raw AI-predicted protein structures (AlphaFold/ESMFold) into docking-ready thermodynamic conformations.
-
-<div align="center">
-
-<a href="https://github.com/HassanAhmed2Ha/biophys-refinement-lab"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
-<a href="https://biophys-refinement-lab.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Platform-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
-
-</div>
-
-<details>
-<summary>🔬 <b>Architecture Deep-Dive</b></summary>
-<br/>
-<ul>
-<li><b>Topology Repair:</b> Two-pass PDBFixer and OpenMM Modeller pipeline restoring missing terminal caps and balancing protonation states at pH 7.4.</li>
-<li><b>Energy Minimization:</b> AMBER14 forcefield with harmonic C-alpha restraints on Modal's serverless NVIDIA A10G GPUs.</li>
-<li><b>Frontend/Backend:</b> Asynchronous polling FastAPI backend with React Vite UI.</li>
-</ul>
-</details>
-
-<br/>
-
 ### 🧠 NeuroScan AI — Clinical Tumor Classifier with SHAP
 
 Breast tumor diagnostic pipeline generating transparent per-feature SHAP explainability for every inference.
@@ -218,21 +183,7 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/>
 
-## 🎓 Credentials & Programs
-
-<details>
-<summary>🏆 <b>Recognitions & Cohorts</b></summary>
-<br/>
-<ul>
-<li>🇯🇵 <b>GCI World 2026 — Deep Learning Track</b> → Matsuo-Iwasawa Lab, University of Tokyo</li>
-<li>🚀 <b>Galactic Problem Solver</b> → NASA International Space Apps Challenge 2025</li>
-<li>🤖 <b>Google Gemini Student Ambassador</b> → BasharSoft × iCareer (Ranked 3rd Nationwide)</li>
-<li>🔬 <b>Scientific Research Cohort Member</b> → Misr El Kheir Foundation (MEK)</li>
-<li>👶 <b>Youth Team Leader & Facilitator</b> → Save the Children International (Safe-Surf Program)</li>
-<li>🌱 <b>Climate Action Ambassador</b> → GreenAura (Mentorship by Stanford & JHU affiliates)</li>
-<li>🏥 <b>Future M.Ds+ in STEM Scholar</b> → MedSTEMPowered</li>
-</ul>
-</details>
+## 📜 Credentials & Publications
 
 <details>
 <summary>📜 <b>Certifications</b></summary>
@@ -266,7 +217,7 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/>
 
-## 📊 Analytics Dashboard
+## 📊 Dynamic Live Analytics Dashboard
 
 <div align="center">
 
@@ -275,7 +226,8 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity"/>
+<!-- Real-time GitHub Contribution Timeline -->
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
