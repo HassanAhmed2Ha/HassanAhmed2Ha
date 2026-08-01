@@ -127,11 +127,11 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <div align="center">
 
-<!-- Official Stable Stats & Streak Cards -->
+<!-- High Availability Error-Free Stats Grid -->
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" valign="middle">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Metrics"/>
+      <img height="165" src="https://github-profile-summary-cards.vercel.app/api/report?username=HassanAhmed2Ha&theme=tokyonight" alt="GitHub Summary Report"/>
     </td>
     <td align="center" valign="middle">
       <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
