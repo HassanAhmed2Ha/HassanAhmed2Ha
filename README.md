@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- Infinite Continuous Typing SVG -->
+<!-- Continuous Infinite Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%A7%AC+Computational+Biologist+%E2%80%A2+Bioinformatics;%F0%9F%A7%A0+GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+UTokyo;%F0%9F%9A%80+Building+Production-Grade+AI+%26+MLOps;%F0%9F%93%A1+Geospatial+Data+Science+%26+Deep+Learning" alt="Typing SVG"/>
 </a>
@@ -103,33 +103,16 @@ Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/HassanAhmed2Ha/AgriTech-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=AgriTech-AI&theme=tokyonight&show_owner=false&border_radius=10" alt="AgriTech AI Repo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/HassanAhmed2Ha/Ryde">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=Ryde&theme=tokyonight&show_owner=false&border_radius=10" alt="Ryde Repo"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/HassanAhmed2Ha/Flood-Intelligence-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=Flood-Intelligence-AI&theme=tokyonight&show_owner=false&border_radius=10" alt="Flood Intelligence AI Repo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/HassanAhmed2Ha/NeuroScan-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=NeuroScan-AI&theme=tokyonight&show_owner=false&border_radius=10" alt="NeuroScan AI Repo"/>
-</a>
-
-</div>
-
-<br/>
-
 ### 🌾 AgriTech AI — Real-Time Crop Disease Segmentation
 
 AI-powered computer vision platform separating compute-intensive inference from mobile clients. Enables real-time crop disease instance segmentation on low-spec Android devices via cloud-native API streaming.
+
+<div align="center">
+
+<a href="https://github.com/HassanAhmed2Ha/AgriTech-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/spaces/Hassan2007/agritech-backend"><img src="https://img.shields.io/badge/%E2%96%B6_FastAPI_Backend-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Backend"/></a>
+
+</div>
 
 <details>
 <summary>🔬 <b>Architecture Deep-Dive</b></summary>
@@ -148,6 +131,13 @@ AI-powered computer vision platform separating compute-intensive inference from 
 
 Production-grade dynamic fare prediction platform evaluated on 178,274 real-world NYC taxi trips, built to bypass serverless deployment constraints.
 
+<div align="center">
+
+<a href="https://github.com/HassanAhmed2Ha/Ryde"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
+<a href="https://ryde-demo.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
+
+</div>
+
 <details>
 <summary>🔬 <b>Architecture Deep-Dive</b></summary>
 <br/>
@@ -163,6 +153,12 @@ Production-grade dynamic fare prediction platform evaluated on 178,274 real-worl
 ### 🛰️ Flood Intelligence AI — Satellite-Driven Geospatial Platform
 
 End-to-end geospatial disaster response intelligence platform combining multi-spectral satellite imagery and deep learning for automated flood detection.
+
+<div align="center">
+
+<a href="https://github.com/HassanAhmed2Ha/Flood-Intelligence-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>
+
+</div>
 
 <details>
 <summary>🔬 <b>Architecture Deep-Dive</b></summary>
@@ -180,6 +176,13 @@ End-to-end geospatial disaster response intelligence platform combining multi-sp
 ### 🧠 NeuroScan AI — Clinical Tumor Classifier with SHAP
 
 Breast tumor diagnostic pipeline generating transparent per-feature SHAP explainability for every inference.
+
+<div align="center">
+
+<a href="https://github.com/HassanAhmed2Ha/NeuroScan-AI"><img src="https://img.shields.io/badge/Source_Code-7C3AED?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0D1117" alt="Code"/></a>&nbsp;&nbsp;
+<a href="https://tumor-diagnosis-frontend.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0EA5E9?style=for-the-badge&labelColor=0D1117" alt="Live"/></a>
+
+</div>
 
 <br/>
 
@@ -221,24 +224,16 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/>
 
-## 📊 Live Analytics Dashboard
+## 📊 Live Contribution Graph
 
 <div align="center">
 
-<!-- Fixed GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Stats Card"/>
-&nbsp;&nbsp;&nbsp;
-<!-- Fixed Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed2Ha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Languages Card"/>
+<!-- Fast Direct GitHub Contribution Heatmap SVG -->
+<img width="90%" src="https://ghchart.rshah.org/0EA5E9/HassanAhmed2Ha" alt="GitHub Contributions Heatmap"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&border_radius=10" alt="Commit Streak"/>
-
-<br/><br/>
-
-<!-- Live GitHub Contribution Graph -->
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
