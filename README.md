@@ -120,61 +120,39 @@ This philosophy guides every system I design, from molecular simulations and bio
 
 # 🧪 Research Interests
 
-<table width="100%">
-
-<tr>
-<td width="50%" valign="top">
-
 ### 🧬 Computational Biology
+* Structural Bioinformatics
+* Molecular Dynamics
+* Protein Structure Prediction
+* Drug Discovery
+* Bioinformatics Pipelines
 
-- Structural Bioinformatics
-- Molecular Dynamics
-- Protein Structure Prediction
-- Drug Discovery
-- Bioinformatics Pipelines
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🧠 Artificial Intelligence
+* Scientific Machine Learning
+* Computer Vision
+* Explainable AI
+* Generative AI
+* MLOps
 
-- Scientific Machine Learning
-- Computer Vision
-- Explainable AI
-- Generative AI
-- MLOps
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🌍 Environmental Intelligence
+* Precision Agriculture
+* Remote Sensing
+* Geospatial Analytics
+* Disaster Intelligence
+* Climate Data Science
 
-- Precision Agriculture
-- Remote Sensing
-- Geospatial Analytics
-- Disaster Intelligence
-- Climate Data Science
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### ⚙️ Software Engineering
-
-- Backend Systems
-- Cloud Computing
-- API Design
-- Production ML
-- Distributed Systems
-
-</td>
-</tr>
-
-</table>
+* Backend Systems
+* Cloud Computing
+* API Design
+* Production ML
+* Distributed Systems
 
 <br/>
 
@@ -184,91 +162,33 @@ This philosophy guides every system I design, from molecular simulations and bio
 
 # ⚙️ Engineering Toolkit
 
-<table width="100%">
+### 💻 Programming Languages
+`Python` • `TypeScript` • `JavaScript` • `Kotlin` • `R`
 
-<tr>
+---
 
-<td width="33%" valign="top">
+### 🧠 Artificial Intelligence & ML
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `YOLOv11` • `SHAP` • `Weights & Biases`
 
-### 💻 Programming
+---
 
-- Python
-- TypeScript
-- JavaScript
-- Kotlin
-- R
+### 🌐 Backend Systems & Databases
+`FastAPI` • `Express.js` • `Node.js` • `REST APIs` • `MongoDB` • `PostgreSQL`
 
-</td>
+---
 
-<td width="33%" valign="top">
+### ☁️ Cloud & DevOps Infrastructure
+`Docker` • `GitHub Actions` • `Vercel` • `Cloudflare Workers` • `Modal`
 
-### 🧠 Artificial Intelligence
+---
 
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- YOLOv11
-- SHAP
-- Weights & Biases
+### 🔬 Scientific & Geospatial Computing
+`OpenMM` • `Google Earth Engine` • `Sentinel-1` • `Sentinel-2` • `OpenStreetMap`
 
-</td>
+---
 
-<td width="34%" valign="top">
-
-### 🌐 Backend & Databases
-
-- FastAPI
-- Express.js
-- Node.js
-- REST APIs
-- MongoDB
-- PostgreSQL
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### ☁️ Cloud & DevOps
-
-- Docker
-- GitHub Actions
-- Vercel
-- Cloudflare Workers
-- Modal
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔬 Scientific Computing
-
-- OpenMM
-- Google Earth Engine
-- Sentinel-1
-- Sentinel-2
-- OpenStreetMap
-
-</td>
-
-<td width="34%" valign="top">
-
-### 🎨 Frontend & Design
-
-- React
-- Tailwind CSS
-- Three.js
-- Leaflet
-- Figma
-
-</td>
-
-</tr>
-
-</table>
+### 🎨 Frontend & UI/UX Frameworks
+`React` • `Tailwind CSS` • `Three.js` • `Leaflet` • `Figma`
 
 <br/>
 
@@ -365,16 +285,7 @@ Whether you're building a research project, an open-source initiative, or a prod
 
 <div align="center">
 
-<table border="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" valign="middle">
-      <img height="165" src="https://github-profile-summary-cards.vercel.app/api/report?username=HassanAhmed2Ha&theme=tokyonight" alt="GitHub Summary Report"/>
-    </td>
-    <td align="center" valign="middle">
-      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 <br/><br/>
 
