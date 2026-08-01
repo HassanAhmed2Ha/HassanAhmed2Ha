@@ -127,11 +127,10 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <div align="center">
 
-<!-- Optimized Error-Free Cached Stats Cards -->
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" valign="middle">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Metrics"/>
+      <img height="165" src="https://github-readme-stats-eight-nu.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Metrics"/>
     </td>
     <td align="center" valign="middle">
       <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
@@ -139,10 +138,14 @@ I operate at the intersection of **computational biology**, **data science**, an
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<!-- Continuous Activity Wave Graph -->
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Continuous%20Contribution%20Timeline&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=f59e0b&area_color=7c3aed&area=true&hide_border=true" alt="Contribution Timeline"/>
+<!-- Continuous Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/HassanAhmed2Ha/HassanAhmed2Ha/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
