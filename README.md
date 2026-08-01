@@ -2,8 +2,9 @@
 
 <div align="center">
 
+<!-- Infinite Continuous Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%A7%AC+Computational+Biologist+%E2%80%A2+Bioinformatics;%F0%9F%A7%A0+GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+UTokyo;%F0%9F%9A%80+Building+Production-Grade+AI+%26+MLOps;%F0%9F%93%A1+Geospatial+Data+Science+%26+Deep+Learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%A7%AC+Computational+Biologist+%E2%80%A2+Bioinformatics;%F0%9F%A7%A0+GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+UTokyo;%F0%9F%9A%80+Building+Production-Grade+AI+%26+MLOps;%F0%9F%93%A1+Geospatial+Data+Science+%26+Deep+Learning" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -22,7 +23,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -38,11 +39,11 @@ Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
-## 🏆 Dynamic Achievements & Trophies
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
@@ -52,7 +53,7 @@ Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -94,7 +95,7 @@ Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -104,7 +105,6 @@ Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo
 
 <div align="center">
 
-<!-- Live Repository Cards -->
 <a href="https://github.com/HassanAhmed2Ha/AgriTech-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanAhmed2Ha&repo=AgriTech-AI&theme=tokyonight&show_owner=false&border_radius=10" alt="AgriTech AI Repo"/>
 </a>
@@ -183,7 +183,7 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -217,16 +217,19 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:7C3AED,100:0EA5E9&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
-## 📊 Dynamic Live Analytics Dashboard
+## 📊 Live Analytics Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="Stats"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed2Ha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Languages"/>
+<!-- Fixed GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Stats Card"/>
+&nbsp;&nbsp;&nbsp;
+<!-- Fixed Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed2Ha&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Languages Card"/>
 
 <br/><br/>
 
@@ -234,14 +237,14 @@ Breast tumor diagnostic pipeline generating transparent per-feature SHAP explain
 
 <br/><br/>
 
-<!-- Real-time GitHub Contribution Timeline -->
+<!-- Live GitHub Contribution Graph -->
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAhmed2Ha&custom_title=Contribution%20Timeline&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=4&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F59E0B&height=30&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -266,4 +269,4 @@ Open to **computational biology research**, **academic collaborations**, and **A
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,30:7C3AED,70:0EA5E9,100:0D1117&height=100&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,30:7C3AED,70:0EA5E9,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
