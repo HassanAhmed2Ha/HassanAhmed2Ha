@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Computational+Biologist+%E2%80%A2+Bioinformatics;GCI+World+2026+%E2%80%A2+Matsuo+Lab%2C+University+of+Tokyo;Building+Production+MLOps+%26+Geospatial+AI" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Computational+Biologist+%E2%80%A2+Bioinformatics;%E2%80%A2+Matsuo+Lab%2C+University+of+Tokyo;Building+Production+MLOps+%26+Geospatial+AI" alt="Typing SVG"/></a>
 
 <br/><br/>
 
-<a href="https://gci.t.u-tokyo.ac.jp/"><img src="https://img.shields.io/badge/GCI_World_2026-Matsuo_Lab_%7C_UTokyo-7C3AED?style=for-the-badge&labelColor=0D1117" alt="GCI"/></a>&nbsp;&nbsp;
+
 <a href="https://hassan-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassan--ahmed-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9&labelColor=0D1117" alt="Portfolio"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hassan-ahmed2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=0D1117" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0005-0306-0898"><img src="https://img.shields.io/badge/ORCID-0009--0005--0306--0898-F59E0B?style=for-the-badge&logo=orcid&logoColor=F59E0B&labelColor=0D1117" alt="ORCID"/></a>&nbsp;&nbsp;
@@ -30,7 +30,6 @@ I am an undergraduate in **Bioinformatics** at the **Faculty of Agriculture**, A
 
 I operate at the intersection of **computational biology**, **data science**, and **software engineering**. I design and deploy end-to-end, production-grade AI systems that transform complex biological, environmental, and clinical data into real-world decision-making tools.
 
-Accepted into **[GCI World 2026](https://gci.t.u-tokyo.ac.jp/)** at the **Matsuo-Iwasawa Laboratory, University of Tokyo** — focused on advanced machine learning foundations and scientific data applications.
 
 > *"Start with the scientific question. Build the system. Create meaningful impact."*
 
