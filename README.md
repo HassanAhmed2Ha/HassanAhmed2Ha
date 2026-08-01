@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0EA5E9,50:7C3AED,75:F59E0B,100:0D1117&height=230&section=header&text=Hassan%20Ahmed&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%E2%80%A2%20Full-Stack%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist&descSize=16&descColor=0EA5E9&descAlignY=58" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0EA5E9,50:7C3AED,75:F59E0B,100:0D1117&height=230&section=header&text=Hassan%20Ahmed&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Computational%20Biologist%20%E2%80%A2%20Full-Stack%20AI%20Engineer%20%E2%80%A2%20Data%20Scientist" width="100%" alt="Header Banner"/>
 
 <div align="center">
 
@@ -127,10 +127,11 @@ I operate at the intersection of **computational biology**, **data science**, an
 
 <div align="center">
 
+<!-- Official Stable Stats & Streak Cards -->
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" valign="middle">
-      <img height="165" src="https://github-readme-stats-eight-nu.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Metrics"/>
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=HassanAhmed2Ha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Metrics"/>
     </td>
     <td align="center" valign="middle">
       <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed2Ha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
